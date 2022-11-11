@@ -25,9 +25,9 @@ dummy_mode = True
 full_screen = False
 
 ## input subject number
-#subjnum = input('Please enter participant number: ' )
+subjnum = input('Please enter participant number: ' )
 ##debug with a random number
-subjnum = 0
+#subjnum = 0
 #adding a random number for filename to avoid accidental overwriting
 srand = numpy.random.randint(1000,9999)
 
@@ -42,7 +42,8 @@ dataFile = open(outputFileName, 'w')  # a simple text file with 'comma-separated
 dataFile.write('subj,order,list,item,condition,sentence,question,correct_answer,response\n')
 
 # read in information about items and conditions into a dataframe
-listNum = numpy.random.randint(1,8)
+#listNum = numpy.random.randint(1,8)
+listNum = input('Please enter list number: ' )
 listFilename = 'noisyP6_list' + str(listNum) + '.csv'
 # change encoding
 itemInfo = pandas.read_csv(listFilename, encoding = 'latin-1')
@@ -56,13 +57,14 @@ random.shuffle(trial_order)
 # port that trigger box is connected to
 if not dummy_mode:
     port = serial.Serial('COM3')
+    port.write([0x00])
 
 # Open a window, be sure to specify monitor parameters
 #mon = monitors.Monitor('myMonitor', width=53.0, distance=70.0)
 win = visual.Window(fullscr=full_screen,
                     size=(800, 600),
                     color='white',
-                    checkTiming = True
+                    checkTiming=True
                     #monitor=mon,
                     #winType='pyglet',
                     #units='pix'
@@ -79,6 +81,31 @@ foreground_color = (-1, -1, -1)
 background_color = (1, 1, 1)
 #genv.setCalibrationColors(foreground_color, background_color)
 
+def key_to_trigger(key):
+    """ map button box responses to trigger codes"""
+    if key == '1':
+        trigger = [0x07]
+    elif key == '2':
+        trigger = [0x08]
+    else:
+        trigger = [0x09]
+
+    return trigger
+
+def condition_to_trigger(condition):
+    """ map target conditions to trigger codes"""
+    if condition == 'Control':
+        trigger = [0x01]
+    elif condition == 'Sem':
+        trigger = [0x02]
+    elif condition == 'SemCrit':
+        trigger = [0x03]
+    elif condition == 'Synt':
+        trigger = [0x04]
+    else:
+        trigger = [0x05]
+
+    return trigger
 
 # define a few helper functions for trial handling
 def clear_screen(win):
@@ -87,34 +114,65 @@ def clear_screen(win):
     win.flip()
 
 
-def show_msg(win, text, wait_for_keypress=True):
+def show_msg(win, text, wait_for_keypress=True, dummy_mode=dummy_mode):
     """ Show a message and get responses"""
+    key_time = False
     key_pressed = None
-    RT = None
+    rt = None
+    pulse_started = False
+    pulse_ended = False
+    resp_pulse_started = False
+    resp_pulse_ended = False
     msg = visual.TextStim(win, text,
                          # color=genv.getForegroundColor(),
                           wrapWidth=scn_width/2,
                           color='black')
+
+    clock = core.Clock()
+
     clear_screen(win)
     msg.draw()
     time_msg = win.flip()
 
-    if not dummy_mode:
-        port.write([0x03])
-        port.write([0x00])
+    if not dummy_mode and not pulse_started:
+        port.write([0x06])  # any instruction sends S6 trigger
+        pulse_start_time = clock.getTime()
+        pulse_started = True
+
+    if not dummy_mode and pulse_started and not pulse_ended:
+        if clock.getTime() - pulse_start_time >= 0.005:
+            port.write([0x00])
+            pulse_ended = True
 
     # wait indefinitely, terminates upon any key press
     if wait_for_keypress:
-        key_time = event.waitKeys(timeStamped = True)
+        key_time = event.waitKeys(timeStamped=True)
+        if not dummy_mode and key_time and not resp_pulse_started:
+            response_code = key_to_trigger(key_time[0][0])
+            port.write(response_code)  # button press sends S4 trigger
+            resp_pulse_start_time = clock.getTime()
+            resp_pulse_started = True
+
+        if not dummy_mode and resp_pulse_started and not resp_pulse_ended:
+            if clock.getTime() - resp_pulse_start_time >= 0.005:
+                port.write([0x00])
+                resp_pulse_ended = True
+
         #print(key_time)
         key_pressed = key_time[0][0]
-        RT = key_time[0][1] - time_msg
+        rt = key_time[0][1] - time_msg
+
+        if key_pressed == 'escape':
+            terminate_task()
+
         clear_screen(win)
-    return key_pressed, RT
+    return key_pressed, rt
 
-def show_word(win, text, dur, crit=False):
+def show_word(win, text, dur, crit=False, dummy_mode=dummy_mode):
     """ Show one word of sentence at a time and send triggers """
-
+    crit_pulse_started = False
+    crit_pulse_ended = False
+    trigger_code = condition_to_trigger(crit)
     msg = visual.TextStim(win, text,
                          # color=genv.getForegroundColor(),
                           wrapWidth=scn_width/2,
@@ -125,13 +183,19 @@ def show_word(win, text, dur, crit=False):
     while clock.getTime() < dur:  # Clock times are in seconds
         msg.draw()
         win.flip()
-        if not dummy_mode and crit:
-            port.write([0x02])
-        elif not dummy_mode:
-            port.write([0x01])
+        if not dummy_mode:
+            if not crit_pulse_started and not crit_pulse_ended:
+                port.write(trigger_code)  # if last word of a critical sentence, indicates the condition, else trigger is 5
+                crit_pulse_start_time = clock.getTime()
+                crit_pulse_started = True
+
+            elif crit_pulse_started and not crit_pulse_ended:
+                if clock.getTime() - crit_pulse_start_time >= 0.005:
+                    port.write([0x00])
+                    #pulse_started = False
+                    crit_pulse_ended = True
+
     clear_screen(win)
-    if not dummy_mode:
-        port.write([0x00])
         
 ##decide whether to run comprehension question        
 def run_question(quest, trial_index, question_index, total, consecutive, noquestion):
@@ -160,10 +224,10 @@ def run_practice():
     quest = ['Does Emily have more cats than dogs?'+'\nYou should answer No to this question.', 
     'Did the man pass the exam?'+'\nYou should answer Yes to this question.']
     for i in range(len(prac)):
-        words  = prac[i].split()
+        words = prac[i].split()
     
     # pre-trial fixation for 1000ms
-        show_word(win,"+", dur = 1.0)
+        show_word(win, "+", dur=1.0)
 
     # blank screen for 500ms
         preISI = clock.StaticPeriod()# can add screen refresh for more precision
@@ -194,7 +258,7 @@ def run_practice():
         clear_screen(win)
     
     prac_msg = 'This is the end of practice trial.\n' + \
-    '\nNow, press ENTER to start the real experiment.\n'
+    '\nNow, press any button to start the real experiment.\n'
     show_msg(win, prac_msg)
         
 def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, consecutive, noquestion):
@@ -211,7 +275,7 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
     #print(words)
 
     # pre-trial fixation for 1000ms
-    show_word(win,"+", dur = 1.0)
+    show_word(win, "+", dur=1.0)
 
     # blank screen for 500ms
     preISI = clock.StaticPeriod()# can add screen refresh for more precision
@@ -221,9 +285,9 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
 
     for w in words:
         if w == words[-1]:
-            show_word(win, w, dur = 0.4, crit = True)
+            show_word(win, w, dur=0.4, crit=cond)
         else:
-            show_word(win, w, dur = 0.4)
+            show_word(win, w, dur=0.4)
         ISI = clock.StaticPeriod()# can add screen refresh for more precision
         ISI.start(0.1)  # start a period of 0.5s
         ISI.complete()  # finish the 0.5s, taking into account one 60Hz frame
@@ -247,7 +311,7 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
         dataFile.write(str(subjnum) + ',' + str(trial_index) + ',' + str(listNum) + ',' + str(item) + ',' + cond + ',' + sent + ',' + quest + ',' + ans + ',' + str(resp) + ',' + str(RT) + '\n')
     else:
         event.clearEvents()  # clear cached PsychoPy events
-        button_pressed = show_msg(win, 'Please press ENTER to continue')
+        button_pressed = show_msg(win, 'Please press any button to continue')
         print(button_pressed)
         resp = button_pressed[0]
         RT = button_pressed[1]
@@ -257,8 +321,8 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
     clear_screen(win)
     
     if trial_index % 48 == 0:
-        break_msg = 'Have a break now!\n' + \
-    '\nPress ENTER to resume.\n'
+        break_msg = 'Take a break now!\n' + \
+    '\nPress any button to resume.\n'
         show_msg(win, break_msg)
         
     return question_index, consecutive, noquestion, total
@@ -275,12 +339,11 @@ def terminate_task():
 
 
 # Show the task instructions
-task_msg = 'Welcome to this brainwaves study!\n' + \
-    '\nPress Ctrl-C to if you need to quit the task early\n'
-if dummy_mode:
-    task_msg = task_msg + '\nNow, press ENTER to start the task'
-else:
-    task_msg = task_msg + '\nNow, press ENTER twice to start the task'
+task_msg = 'Welcome to this brainwaves study!\n\nNow, press any button to start the task'
+# if dummy_mode:
+#     task_msg = task_msg + '\nNow, press ENTER to start the task'
+# else:
+#     task_msg = task_msg + '\nNow, press ENTER twice to start the task'
 show_msg(win, task_msg)
 
 

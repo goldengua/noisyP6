@@ -1,0 +1,359 @@
+subj,order,list,item,condition,sentence,question,correct_answer,response
+999,0,4,52,Filler,She searched under the couch cushions for the television remote.,Did she search under the bed? ,No,2,2.4004209999693558
+999,1,4,163,Filler,The teacher's experience as a counselor gave her valuable insight.,NA,NA,return,1.6636498000007123
+999,2,4,105,Sem,On the mountaintop we felt dizzy because of this conscience.,NA,NA,return,4.367514499928802
+999,3,4,9,SemCrit,The flooded river fertilized the fields with a rich sentiment.,NA,NA,return,3.5648637999547645
+999,4,4,247,Filler,The woman used the ATM to make a cash withdrawal.,NA,NA,return,1.9498237000079826
+999,5,4,85,Sem,In the nineties, the Rugrats was a very popular boundary.,NA,NA,return,2.309450799948536
+999,6,4,41,Synt,The Caribbean cruise package includes this kayaking� and snorkeling excursions.,NA,NA,return,1.4773447000188753
+999,7,4,5,Filler,He could no longer remember anything because of his amnesia.,NA,NA,return,1.116839800029993
+999,8,4,92,Sem,Incensed at the captain, the crew staged a full-scale correlation.,NA,NA,return,1.3508053999394178
+999,9,4,254,Filler,The main ingredient in a Caesar salad is Romaine lettuce.,NA,NA,return,0.7521600000327453
+999,10,4,60,Filler,Because shampoo is a cosmetic, it is subject to regulation.,Does the sentence mention lipstick? ,No,2,2.6322390999412164
+999,11,4,62,Synt,She danced with an elegant masked gentleman at that masquerades.,NA,NA,return,1.954513999982737
+999,12,4,17,GoodExp,The earth shook and buildings crumbled in the massive earthquake.,Were the buildings damaged by high winds? ,No,1,6.833281599916518
+999,13,4,201,Filler,As the population ages, more adults find themselves becoming caregivers.,NA,NA,return,1.662547399988398
+999,14,4,194,Filler,The room's décor was overwhelmed by the extravagant floral wallpaper.,NA,NA,return,2.606260000029579
+999,15,4,18,Filler,You can make positive change if you take the initiative.,NA,NA,return,1.2172479999717325
+999,16,4,199,Filler,I found her fascination with the deaths just plain morbid.,NA,NA,return,0.9279838000657037
+999,17,4,154,Filler,A conscientious objector refuses the draft because of religious convictions.,NA,NA,return,0.4827208999777213
+999,18,4,149,Control,The soldier rammed gunpowder down the barrel of a musket.,NA,NA,return,0.8149599999887869
+999,19,4,62,Filler,The language savant suffered brain damage in a car accident.,NA,NA,return,0.7895627999678254
+999,20,4,198,Filler,Law enforcement officials cannot search your home without a warrant.,Do the police need a warrant to search a house? ,Yes,1,3.1976350999902934
+999,21,4,43,Filler,The Pantheon in Rome is a marvel of ancient architecture.,Is the building in Venice? ,No,2,1.8962256000377238
+999,22,4,257,Filler,To her coffee she added a package of artificial sweetener.,Did she put a cube of sugar in her coffee? ,No,2,2.3685298999771476
+999,23,4,133,Control,That white dog with little black spots is a dalmatian.,Was the creature a canine? ,Yes,1,2.467958000022918
+999,24,4,29,GoodExp,The poachers want to sell the tusks of these elephants.,Are they trying to sell animal furs? ,No,2,3.76066000002902
+999,25,4,174,Filler,At the airport they finally parted after exchanging tearful farewells.,Was the water's temperature consistently monitored? ,No,1,60.034730799961835
+999,26,4,147,Control,The contraction for "it is" needs to include an apostrophe.,NA,NA,return,51.86845379997976
+999,27,4,46,Synt,Each winter evening, the family gathers around a warm hearths.,Does the family gather berries? ,No,2,2.0344650000333786
+999,28,4,131,Filler,Witnessing war, rape, or physical abuse can be extremely traumatic.,Does the sentence mention natural disasters? ,No,2,4.84354750008788
+999,29,4,159,Control,Claiming two wrongs make a right is a common fallacy.,Do people make this claim often? ,Yes,1,2.184984099934809
+999,30,4,64,Synt,The hostess greeted her guests with a light social pleasantries.,Did the woman have guests? ,Yes,1,11.853677200037055
+999,31,4,90,Sem,He had a short attention span and needed constant sediment.,Did he concentrate easily? ,No,2,1.7424486998934299
+999,32,4,160,Control,Don't call it a prison; call it a correctional facility.,NA,NA,return,0.7248133999528363
+999,33,4,106,Sem,The coach scolded the player for having a bad shutter.,NA,NA,return,1.6566677000373602
+999,34,4,127,Control,The sudden change in protocol had caused all this consternation.,Was the transition gradual? ,No,2,4.260264000040479
+999,35,4,13,Filler,After being arrested for substance abuse, he voluntarily underwent rehabilitation.,Did he submit to treatment willingly? ,Yes,1,1.480957999941893
+999,36,4,158,Filler,The ill airplane passenger was aided by the flight attendant.,Was the attendant helpful?  ,Yes,1,1.234004299971275
+999,37,4,108,Filler,Gossip about the celebrity scandal was paraded through the tabloids.,Did the media learn of the scandal? ,Yes,1,1.6713281000265852
+999,38,4,277,Filler,The toxic pollution was killing wildlife and ruining the environment.,Was the pollution poisonous? ,Yes,1,1.7358781000366434
+999,39,4,104,Sem,Edith Piaf's extraordinary singing career was begun in a thermos.,NA,NA,return,4.05690689990297
+999,40,4,165,Filler,She believed herself in love, but it was just infatuation.,Was she really in love? ,No,2,1.6031004999531433
+999,41,4,206,Filler,He became so suspicious that he hired a private investigator.,Did he hire a detective? ,Yes,1,3.0848673000000417
+999,42,4,118,Filler,The tropical greenhouse was filled with ferns, hibiscus, and orchids.,Were the plants in a greenhouse? ,Yes,2,2.744100600015372
+999,43,4,91,Filler,The company's juice was always fresh squeezed, never from concentrate.,Did the company sometimes make juice from concentrate? ,No,2,2.1008358999388292
+999,44,4,131,Control,A soldier fighting for the highest bidder is a mercenary.,NA,NA,return,0.9655857000034302
+999,45,4,46,Filler,The entire temple reverberated with the monks' steady rhythmic chanting.,Was the temple eerily silent? ,No,2,1.5430587000446394
+999,46,4,65,Synt,Senator McCarthy accused the screenwriter of being a Communist sympathizers.,NA,NA,return,0.8969411000143737
+999,47,4,87,Filler,Reading regularly is the best way to improve your vocabulary.,Is writing the best way to learn new words? ,No,2,2.2623337999684736
+999,48,4,189,Filler,The doctor carefully inspected the blood sample through a microscope.,Was the sample a urine sample? ,No,2,1.8036188000114635
+999,49,4,6,SemCrit,She saved him from the poison by administering an anecdote.,NA,NA,return,2.2919320999644697
+999,50,4,40,SemCrit,The baseball player felt cheated and swore at an empire.,Was the player a tennis player? ,No,1,3.9947106000036
+999,51,4,57,Filler,She took a ballroom dancing class to learn the tango.,Did she want to learn to dance? ,Yes,1,6.01511819998268
+999,52,4,74,Synt,The powerful cheetah sprinted in pursuit of a baby gazelles.,Was the cheetah running? ,Yes,1,5.396095400094055
+999,53,4,158,Control,Blizzards are deadly hazards for explorers on an arctic expedition.,Can the weather be dangerous? ,Yes,1,1.7158992999466136
+999,54,4,95,Sem,Like the IRS and FBI, CIA is another three-letter mobility.,Were they similar because they rhymed? ,No,2,63.57013610005379
+999,55,4,126,Filler,The mobster was caught and charged with blackmail and extortion.,Was the mobster captured? ,Yes,1,1.2512771000619978
+999,56,4,36,Filler,The princess lived in a castle guarded by a dragon.,Did she live in a dragon cave? ,No,2,2.004194099921733
+999,57,4,47,Filler,When the toy proved hazardous, the victims sued the manufacturer.,Did they sue the government? ,No,2,4.846672700019553
+999,58,4,8,Filler,She always made a list before going shopping for groceries.,NA,NA,return,1.5955476999515668
+999,59,4,31,Filler,A shimmering pearl lay on the shell of the oyster.,Does the sentence mention a sea shell? ,Yes,2,9.496737699955702
+999,60,4,121,Filler,We watched setting sun and lingered together in the twilight.,Was the sun rising? ,Yes,2,1.4680673000402749
+999,61,4,9,Filler,The workers went on strike to demand better living conditions.,Did the workers want better living conditions? ,Yes,1,1.4715951000107452
+999,62,4,170,Filler,Malls often offer many dining options in the food court.,Is it often difficult to find a place to eat in the mall? ,No,2,2.693430699990131
+999,63,4,156,Filler,Upon seeing the dead body, he pulled away in revulsion.,Was he disgusted by a rotting piece of fruit? ,No,2,2.4207222000695765
+999,64,4,209,Filler,The crying infant was calmed by its mother's soothing lullaby.,Did the baby's mother sing? ,Yes,1,1.93116239993833
+999,65,4,69,Filler,The breeding ground was set aside as a wildlife sanctuary.,Was the area protected? ,Yes,1,2.4323123999638483
+999,66,4,81,Sem,The lecherous satyr chased after a beautiful lithe wood destiny.,Was the pursued creature especially clumsy? ,No,2,4.823745000059716
+999,67,4,7,GoodExp,Tourists gazed at the temple's magnificent rows of marble columns.,Were the columns part of a temple? ,Yes,1,4.044142000027932
+999,68,4,182,Filler,You should be careful to speak respectfully to your superiors.,Should you watch your tongue around your boss? ,Yes,1,1.683759200037457
+999,69,4,21,GoodExp,The lighthouse built on the rocky coast prevented many shipwrecks.,Was the coastline dangerous? ,Yes,1,1.012190599925816
+999,70,4,63,Filler,Without painkillers, the agony from her injury was utterly unbearable.,Was she suffering from cramps? ,No,2,2.2415042999200523
+999,71,4,279,Filler,Although the rules are flexible, the deadlines must be met.,Are the regulations very strict? ,No,1,1.7112158000236377
+999,72,4,108,Sem,Soda cans and tin foil are both made of exertion.,Are soda cans made from petroleum? ,No,2,3.285862599965185
+999,73,4,4,SemCrit,Mediators prevented the dispute from escalating into a violent alteration.,Was there a disagreement? ,Yes,1,1.1297895999159664
+999,74,4,173,Filler,Because the snake is highly poisonous, it is brightly colored.,Is the poisonous animal a snake? ,Yes,1,5.248869100003503
+999,75,4,30,SemCrit,The archeologists found the mummy of a young Egyptian pheromone.,Was the mummy discovered by a paleontologist? ,No,2,3.0743378000333905
+999,76,4,96,Filler,The doctor warned the medication could cause nausea and vomiting.,Did the doctor warn about addiction? ,No,2,2.327528199995868
+999,77,4,166,Filler,Children should never use lighters or fireworks without adult supervision.,Do the kids to be watched? ,Yes,1,19.065121700055897
+999,78,4,32,GoodExp,After a good night's sleep she felt invigorated and refreshed.,Did she sleep well? ,Yes,1,2.1747130999574438
+999,79,4,67,Filler,Even after being caught, the cold-blooded killer showed no remorse.,Did the murderer feel guilty? ,No,2,1.6104449999984354
+999,80,4,53,Filler,She left the snuffed out cigarette smoldering in the ashtray.,Did she throw the cigarette on the sidewalk? ,No,2,2.145575699978508
+999,81,4,237,Filler,After the tornado, it took days to restore the electricity.,Did the weather disrupt the electricity? ,Yes,1,12.885860500042327
+999,82,4,141,Control,The retiree found he soon tired of all this leisure.,NA,NA,return,1.4550144999520853
+999,83,4,225,Filler,Barely able to stand the suspense, she quivered with anticipation.,Did she seem bored? ,No,2,1.402899399981834
+999,84,4,11,SemCrit,Up on the tree branch perched a bright red carnival.,Does the sentence mention a tree? ,Yes,1,1.9950135999824852
+999,85,4,31,GoodExp,The reader was drawn in by the article's sensational headline.,Was the reader interested? ,Yes,1,1.7351601000409573
+999,86,4,7,SemCrit,Clownfish have evolved invulnerability to the poison tentacles of amenities.,NA,NA,return,1.6224964000284672
+999,87,4,3,GoodExp,The dentist gave her some dental floss and a toothbrush.,NA,NA,return,1.4251400999492034
+999,88,4,229,Filler,The surgeon asked the nurse to hand him a scalpel.,NA,NA,return,0.9115205999696627
+999,89,4,137,Filler,The eagerly awaited package was delivered by a cheerful postman.,NA,NA,return,0.7090789000503719
+999,90,4,140,Control,The ambassador who negotiated the deal was a skilled diplomat.,NA,NA,return,1.0290365999098867
+999,91,4,97,Filler,A pessimistic prediction can quite often become a self-fulfilling prophecy.,NA,NA,return,0.7776237999787554
+999,92,4,42,Filler,The death of the store owner was tragic and senseless.,NA,NA,4,1.8361956999870017
+999,93,4,13,SemCrit,The reagents reacted faster in the presence of a callus.,NA,NA,4,1.144804700044915
+999,94,4,38,Filler,He felt the meeting was pointless, but attendance was mandatory.,NA,NA,4,0.682357499958016
+999,95,4,18,GoodExp,The sociologist investigated how status interacted with ethnicity and gender.,NA,NA,4,0.736595300026238
+999,96,4,79,Filler,The most formal attire for a man is a tuxedo.,NA,NA,4,1.0529390999581665
+999,97,4,145,Filler,The stock exchange was host to millions of financial transactions.,NA,NA,return,2.22942280001007
+999,98,4,91,Sem,She was vaccinated so her body would developed a cartoon.,NA,NA,return,1.7926601000363007
+999,99,4,153,Control,Rather than reducing violence, the intervention just caused an escalation.,NA,NA,return,69.67916529998183
+999,100,4,33,SemCrit,Blinking causes a momentary pupil contraction followed by a dilution.,NA,NA,return,1.2212638000492007
+999,101,4,271,Filler,The cause of the helicopter crash was a mechanical malfunction.,NA,NA,return,1.353917000000365
+999,102,4,95,Filler,She wanted a green lawn and a white picket fence.,NA,NA,return,1.0008970000781119
+999,103,4,168,Filler,The detective dusted the glass to reveal the criminal's fingerprint.,NA,NA,return,0.5446383999660611
+999,104,4,119,Sem,He soon backed away, sensing he had crossed a manatee.,NA,NA,return,0.7048935999628156
+999,105,4,54,Synt,Despite technological advances, wars cannot be won without an infantries.,NA,NA,return,0.8762644999660552
+999,106,4,141,Filler,Surrounded by impassable mountains, the indigenous community was completely isolated.,NA,NA,return,0.7366749999346212
+999,107,4,98,Filler,The meek student was too intimidated to ask a question.,NA,NA,return,0.642937499913387
+999,108,4,12,SemCrit,There is a beanbag toss game booth at this cardinal.,NA,NA,return,0.6954306000843644
+999,109,4,45,Synt,The casket was carried to the cemetery in a hearses.,NA,NA,return,0.8672335000010207
+999,110,4,140,Filler,Many people drink coffee for a daily dose of caffeine.,NA,NA,return,0.6428110999986529
+999,111,4,124,Control,The napalm turned the luscious forest into a fiery inferno.,NA,NA,return,0.8253938999259844
+999,112,4,89,Filler,His attempt to sound grand just came off as pompous.,NA,NA,return,0.8237160999560729
+999,113,4,10,Filler,The old farmer plowed the corn field with a tractor.,NA,NA,return,0.7793960999697447
+999,114,4,136,Control,I control my fate; I don't have a predetermined destiny.,NA,NA,return,0.7122593000531197
+999,115,4,223,Filler,Many companies and corporations will match their employees' charitable donations.,NA,NA,return,0.7125370999565348
+999,116,4,280,Filler,The mother rocked the baby to sleep in a cradle.,NA,NA,return,0.5858092999551445
+999,117,4,22,Filler,The magnificent roaring sea made him feel small and insignificant.,NA,NA,return,0.6830156000796705
+999,118,4,25,Filler,The radio transmission we thought was secure has been intercepted.,NA,NA,return,0.6245268000056967
+999,119,4,128,Filler,The judge ordered the audience to stop disrupting the proceedings.,NA,NA,return,0.7916909999912605
+999,120,4,213,Filler,The foreigner found it difficult to overcome the language barrier.,NA,NA,return,0.5944023000774905
+999,121,4,113,Filler,The baron pouted, feeling the insult had wounded his dignity.,NA,NA,return,0.640951200039126
+999,122,4,16,SemCrit,The dentist congratulated me on not having a single cavalry.,NA,NA,return,0.6124816000228748
+999,123,4,15,SemCrit,Pikemen can be an effective defense against a charging cavity.,NA,NA,return,2.3413640999933705
+999,124,4,208,Filler,The couple drank coffee and exchanged lively and playful banter.,NA,NA,return,0.46689190005417913
+999,125,4,69,Synt,The ring held small diamonds set around this blue sapphires.,NA,NA,return,0.8371773000108078
+999,126,4,185,Filler,The novel's twist ending was a surprise to many readers.,NA,NA,return,0.5473956000059843
+999,127,4,93,Filler,In his nightmare, he plummeted down a dark endless abyss.,NA,NA,return,0.8762861000141129
+999,128,4,101,Sem,The museum pass provides five dollars off of each carnival.,NA,NA,return,0.7118036999600008
+999,129,4,214,Filler,Although hedgehogs are nocturnal, they sometimes enjoy rays of sunshine.,NA,NA,return,0.7117594999726862
+999,130,4,78,Synt,Agriculture in this desert would be impossible without this irrigations.,NA,NA,return,1.4068122999742627
+999,131,4,57,Synt,The three kings bore gifts of gold, myrrh, and frankincenses.,NA,NA,return,1.886676200083457
+999,132,4,48,Synt,The sermon denounced pride and extolled the virtue of humilities.,NA,NA,return,0.87509190000128
+999,133,4,239,Filler,The rich old woman left her grandson a large inheritance.,NA,NA,return,0.8247305999975652
+999,134,4,44,Filler,The persistent child worked for hours on the jigsaw puzzle.,NA,NA,return,0.5727415999863297
+999,135,4,92,Filler,After the important deal fell through, the company went bankrupt.,NA,NA,return,0.8278818000108004
+999,136,4,111,Filler,The child painstakingly knotted the laces on her new sneakers.,NA,NA,return,0.5704388000303879
+999,137,4,116,Filler,The algebra students learned how to solve a quadratic equation.,NA,NA,return,0.8531562999123707
+999,138,4,142,Filler,Olive oil and balsamic vinegar make a great salad dressing.,NA,NA,return,0.583945499965921
+999,139,4,40,GoodExp,The audio editing software was available as a free download.,NA,NA,return,0.7200146000832319
+999,140,4,24,Filler,The king's court was filled with scandal and political intrigue.,NA,NA,return,1.7958192999940366
+999,141,4,176,Filler,To make tea, you should boil water in a kettle.,NA,NA,return,0.6980114000616595
+999,142,4,1,GoodExp,The mysterious murders crippled the community with fear and paranoia.,NA,NA,return,0.4947327000554651
+999,143,4,177,Filler,Smoking tobacco greatly increases the risk of developing lung cancer.,NA,NA,return,1.38004479999654
+999,144,4,123,Filler,The public swimming pool was carefully supervised by a lifeguard.,NA,NA,return,1.3768883999437094
+999,145,4,186,Filler,Because of the bonfire incident, all the campers were punished.,NA,NA,return,1.317929400014691
+999,146,4,5,GoodExp,The family switched their light bulbs from incandescent to fluorescent.,NA,NA,return,0.607334400061518
+999,147,4,110,Filler,To keep healthy, do aerobic exercises like running or jogging.,NA,NA,4,1.41677560005337
+999,148,4,115,Filler,The filmmaker hoped to inform the public with the documentary.,NA,NA,4,0.6891771000809968
+999,149,4,118,Sem,Romeo longingly admired Juliet as she stood on this consciousness.,NA,NA,4,1.2659659999189898
+999,150,4,246,Filler,When the parents went out together they hired a babysitter.,NA,NA,4,0.839297299971804
+999,151,4,79,Synt,The poor stayed poor because of this limited upward mobilities.,NA,NA,4,0.7847930999705568
+999,152,4,215,Filler,Although the auditorium is modern, it has quite poor acoustics.,NA,NA,4,0.6058657000539824
+999,153,4,138,Control,My back was so tense I really needed a massage.,NA,NA,4,0.6837610999355093
+999,154,4,54,Filler,The bodyguard chased after the fan at the rock concert.,NA,NA,4,0.540710199973546
+999,155,4,248,Filler,Scientists believe an asteroid impact is what killed the dinosaurs.,NA,NA,4,0.6946890000253916
+999,156,4,272,Filler,A nobleman traveled to distant lands in search of adventure.,NA,NA,4,0.625466899946332
+999,157,4,252,Filler,In comparison to her uptight brother, she was quite mellow.,NA,NA,4,0.5930804999079555
+999,158,4,80,Synt,Champagne was once reserved exclusively for the royalty and nobilities.,NA,NA,4,1.3626484000124037
+999,159,4,135,Control,The crowded urban neighborhood had a very high population density.,NA,NA,4,0.5997067000716925
+999,160,4,66,Synt,The computer could read text aloud using a speech synthesizers.,NA,NA,4,0.7746263999724761
+999,161,4,41,Filler,Only upperclassmen could join, and he was still a sophomore.,NA,NA,4,0.6183599000796676
+999,162,4,243,Filler,He hoped his research would lead to many practical applications.,NA,NA,4,0.4822419999400154
+999,163,4,216,Filler,At approximately age twelve, children begin to go through puberty.,NA,NA,4,0.5306877999100834
+999,164,4,113,Sem,The United States has a large stockpile of nuclear adoration.,NA,NA,4,0.8135882000206038
+999,165,4,255,Filler,Halloween is a time to dress up in a costume.,NA,NA,4,0.5318938000127673
+999,166,4,114,Sem,The Christmas tree was decorated with many shining glass infantry.,NA,NA,4,0.8586311000399292
+999,167,4,14,SemCrit,After hours of playing, the guitarist's fingertips developed a catalyst.,NA,NA,4,0.6517853999976069
+999,168,4,50,Synt,Use Pythagoras' theorem to find the length of a hypotenuses.,NA,NA,4,0.7678682999685407
+999,169,4,218,Filler,After the housing market crashed, many homes were left vacant.,NA,NA,4,0.7859145000111312
+999,170,4,197,Filler,A crepe is like a very thin and delicate pancake.,NA,NA,4,0.9888298000441864
+999,171,4,107,Filler,The nonconformist despised fashion and never cared about his reputation.,NA,NA,4,0.7132959000300616
+999,172,4,26,GoodExp,She needed to buy detergent so she could do laundry.,NA,NA,4,0.4304815001087263
+999,173,4,236,Filler,The public drinking water supply was tested regularly for contaminants.,NA,NA,4,0.7745523999910802
+999,174,4,2,Filler,To succeed, you must be more than just a dreamer.,NA,NA,4,0.6717972999904305
+999,175,4,219,Filler,The victims of the industrial accident angrily demanded adequate compensation.,NA,NA,4,119.52149299997836
+999,176,4,88,Filler,They started a viral marketing campaign to increase their publicity.,NA,NA,4,1.7213286999613047
+999,177,4,125,Control,I blacked out and was confused when I regained consciousness.,NA,NA,4,18.619350300054066
+999,178,4,70,Filler,The reported bribery was just the tip of the iceberg.,NA,NA,4,39.729247299954295
+999,179,4,83,Sem,The circus featured an acrobat, a clown, and a cavity.,NA,NA,4,0.5611967999720946
+999,180,4,70,Synt,The rice was spiced with a pinch of that saffrons.,NA,NA,4,0.3127107999753207
+999,181,4,80,Filler,During industrialization, many moved to cities to work in factories.,NA,NA,4,0.7178883000742644
+999,182,4,130,Control,The congregation listens to a sermon delivered by a pastor.,NA,NA,4,0.6346385999349877
+999,183,4,220,Filler,Despite my occasional jealousy, I never wanted our roles reversed.,NA,NA,4,0.5026165000163019
+999,184,4,65,Filler,The most popular pastas are macaroni, vermicelli, lasagna, and spaghetti.,NA,NA,4,0.5601239000679925
+999,185,4,17,Filler,Regulating interstate trade is a job of the federal government.,NA,NA,4,0.5689406999154016
+999,186,4,55,Filler,Apple pie filling is usually spiced with nutmeg and cinnamon.,NA,NA,4,0.35105789999943227
+999,187,4,134,Control,Once Faust signed, he was doomed to this eternal damnation.,NA,NA,4,0.5249029999831691
+999,188,4,217,Filler,The legislators hoped to induce a more equal income distribution.,NA,NA,4,0.3697558999992907
+999,189,4,242,Filler,To garner support for the war, the government issued propaganda.,NA,NA,4,0.4917051000520587
+999,190,4,30,GoodExp,A gust of wind blew the newspaper down the street.,NA,NA,4,0.5592352000530809
+999,191,4,59,Synt,This docile herbivorous aquatic mammal is known as a manatees.,NA,NA,4,0.2718012999976054
+999,192,4,28,Filler,He preferred reading biographies and historical accounts to reading novels.,NA,NA,4,0.4449173000175506
+999,193,4,44,Synt,The pseudoscience of inferring personality from skull measurements is phrenologies.,NA,NA,4,0.7184102999744937
+999,194,4,167,Filler,Supposedly, scrubbing your face with oatmeal is great for exfoliation.,NA,NA,4,0.5905048999702558
+999,195,4,24,GoodExp,Desperately, the skydiver pulled the cord for his backup parachute.,NA,NA,4,0.6639362999703735
+999,196,4,251,Filler,Although the water was boiling, the pasta was not soft.,NA,NA,4,0.6460019999649376
+999,197,4,71,Synt,For lunch, she had brought tomato soup in a thermoses.,NA,NA,4,0.48407420003786683
+999,198,4,99,Sem,The teacher taught that subtraction was the opposite of humility.,NA,NA,4,18.58167530002538
+999,199,4,139,Filler,The hotel bathroom had little bottles of shampoo and conditioner.,NA,NA,4,1.0370863999705762
+999,200,4,49,Filler,Diplomats hoped the dispute would come to a peaceful resolution.,NA,NA,4,0.6888419999741018
+999,201,4,30,Filler,Xenophobia is an unreasonable fear or hatred of all foreigners.,NA,NA,4,0.4727185999508947
+999,202,4,13,GoodExp,He was in charge of sending out the wedding invitations.,NA,NA,4,0.5088942999718711
+999,203,4,25,GoodExp,When the car exploded, the burning plastic emitted toxic fumes.,NA,NA,4,0.5162926999619231
+999,204,4,11,Filler,The report's aims were briefly outlined in the opening paragraph.,NA,NA,4,0.4486720999702811
+999,205,4,8,SemCrit,The upscale apartment was complete with all these modern anemones.,NA,NA,4,0.5625916999997571
+999,206,4,164,Filler,The missionary hoped that many local people would be converted.,NA,NA,4,0.5615195999853313
+999,207,4,172,Filler,The protests were swiftly followed by a harsh government crackdown.,NA,NA,4,0.8519183000316843
+999,208,4,151,Filler,The sky lit up with sparkling explosions and shimmering sparks.,NA,NA,4,0.5616965000517666
+999,209,4,142,Control,His personality was dramatically altered after acquiring this brain lesion.,NA,NA,4,0.5298455000156537
+999,210,4,117,Sem,The cheapest lunchmeat at this grocery store is this immortality.,NA,NA,4,0.5872299000620842
+999,211,4,148,Filler,He was frightened by the woman's sudden anger and hostility.,NA,NA,4,0.6451658000005409
+999,212,4,19,GoodExp,Because the dictator was feared, no protests ever took place.,NA,NA,4,0.49687679996713996
+999,213,4,76,Synt,Some controversial stem cell research requires a fertilized human embryos.,NA,NA,4,0.8460164000280201
+999,214,4,152,Filler,Women in the workplace often faced physical and verbal harassment.,NA,NA,4,1.667012199992314
+999,215,4,55,Synt,Oh, yes, very impressive, she drawled with a sarcastic inflections.,NA,NA,4,0.4759110000450164
+999,216,4,129,Filler,Many women juggle a career, caring for children, and housekeeping.,NA,NA,4,0.4079815000295639
+999,217,4,68,Synt,He denounced the novel's film adaptation as a complete travesties.,NA,NA,4,0.4765118999639526
+999,218,4,128,Control,The Big Dipper may perhaps be the most famous constellation.,NA,NA,4,0.5552897000452504
+999,219,4,139,Control,The president of the college handed each graduate a diploma.,NA,NA,4,0.4135534999659285
+999,220,4,228,Filler,If it is too sunny, you should close the curtains.,NA,NA,4,0.2968422999838367
+999,221,4,111,Sem,Marie Curie died of exposure to radiation from this veterinarian.,NA,NA,4,0.5740638000424951
+999,222,4,12,Filler,The sunrise was accompanied by the crowing of the rooster.,NA,NA,4,0.4354721999261528
+999,223,4,148,Control,The doomsday preacher urged repentance and warned of an apocalypse.,NA,NA,4,0.6599974000127986
+999,224,4,129,Control,The herd of cows was out grazing in a pasture.,NA,NA,4,0.6155772999627516
+999,225,4,6,GoodExp,Right-to-die activists believe it should be legal to perform euthanasia.,NA,NA,4,0.37293070007581264
+999,226,4,9,GoodExp,The chimpanzee's vicious attack left the woman's face completely eviscerated.,NA,NA,4,0.5748337999684736
+999,227,4,42,Synt,He had sprinted and was still sweating from this exertions.,NA,NA,4,0.254289900069125
+999,228,4,26,SemCrit,His office is down at the end of this coroner.,NA,NA,4,0.7651902999496087
+999,229,4,112,Sem,No light escapes the black hole once within this cabaret.,NA,NA,4,48.10037760005798
+999,230,4,3,Filler,Repulsed by the city's defenses, they resorted to a siege.,NA,NA,4,39.34604460000992
+999,231,4,7,Filler,The terrorists threatened to kill all of the frightened hostages.,NA,NA,4,0.6257599000819027
+999,232,4,264,Filler,A lab assistant fainted because the room was too stuffy.,NA,NA,4,0.37037419993430376
+999,233,4,34,Filler,Police arrested the drunk driver and revoked his driver's license.,NA,NA,4,0.5204570000059903
+999,234,4,73,Filler,For their date, the couple went to a nice restaurant.,NA,NA,4,0.43874470004811883
+999,235,4,171,Filler,The souls of the wicked were condemned to eternal torment.,NA,NA,4,0.5750803999835625
+999,236,4,20,GoodExp,The caterpillar enters its cocoon and undergoes an amazing metamorphosis.,NA,NA,4,0.30652340000960976
+999,237,4,72,Synt,The soaring eagle circled and glided upwards on a thermals.,NA,NA,4,0.8549127998994663
+999,238,4,190,Filler,The major led a large company, consisting of five platoons.,NA,NA,4,0.4283983000786975
+999,239,4,204,Filler,The student raced to finish the paper before the deadline.,NA,NA,4,0.31076050002593547
+999,240,4,122,Control,The slogan "change" was a focus of that presidential campaign.,NA,NA,4,0.4714711999986321
+999,241,4,169,Filler,Most works take ninety-five years to enter the public domain.,NA,NA,4,1.1248530999291688
+999,242,4,75,Filler,The gifted rapper was famous for his complex multisyllabic rhymes.,NA,NA,4,0.8203010000288486
+999,243,4,84,Sem,She lunged towards his neck, going right for the nymph.,NA,NA,4,1.194836899987422
+999,244,4,114,Filler,She loved bread and always dreamed of opening a bakery.,NA,NA,4,2.633192600100301
+999,245,4,126,Control,After she deceived her mother, she had a guilty conscience.,NA,NA,4,0.5863394000334665
+999,246,4,221,Filler,GPS navigation relies on receiving radio signals from orbiting satellites.,NA,NA,4,0.7746522999368608
+999,247,4,146,Filler,Stagnant water is the perfect breeding ground for a mosquito.,NA,NA,4,0.43612960004247725
+999,248,4,100,Sem,The flute player nervously prepared an excerpt for a corridor.,NA,NA,4,4.909491900005378
+999,249,4,28,SemCrit,The king knelt to be crowned at an official correlation.,NA,NA,4,0.4260976000223309
+999,250,4,180,Filler,He wouldn't come to the bargaining table without significant leverage.,NA,NA,4,0.5306549998931587
+999,251,4,275,Filler,She felt that the novel was spoiled by the translation.,NA,NA,4,1.070132500026375
+999,252,4,16,GoodExp,The man shaved away his stubble with a disposable razor.,NA,NA,4,0.5954677999252453
+999,253,4,72,Filler,The skilled adventurer knew how to survive in the wilderness.,NA,NA,4,0.4713521000230685
+999,254,4,261,Filler,This common but delicious hearty vegetable soup is called minestrone.,NA,NA,4,0.4478764000814408
+999,255,4,85,Filler,You must come to court if you have been summoned.,NA,NA,4,0.5373276999453083
+999,256,4,202,Filler,Friends gathered to honor the memory of the dearly departed.,NA,NA,4,0.6078733999747783
+999,257,4,99,Filler,A judge or a priest can perform an official marriage.,NA,NA,4,0.6261331000132486
+999,258,4,134,Filler,The manager saw no good way to resolve this dilemma.,NA,NA,4,0.6067490000277758
+999,259,4,15,Filler,When my microwave died, I searched online for a replacement.,NA,NA,4,0.7114338999381289
+999,260,4,24,SemCrit,The child wore a glittery crown with a pink rhino.,NA,NA,4,0.5788589000003412
+999,261,4,22,GoodExp,She woke up crying and shaking after a horrible nightmare.,NA,NA,4,0.30482600000686944
+999,262,4,90,Filler,The royal guards threw the prisoner into the castle dungeon.,NA,NA,4,0.294795099995099
+999,263,4,38,SemCrit,One window on the dilapidated house was missing a shudder.,NA,NA,4,0.710302900057286
+999,264,4,94,Sem,The goddess refused to be bested by a mere expectation.,NA,NA,4,0.5023710000095889
+999,265,4,230,Filler,Despite their creative freedoms, film directors ultimately answer to producers.,NA,NA,4,0.4551056999480352
+999,266,4,2,SemCrit,The woman brought her sick pet dog to a veteran.,NA,NA,4,0.16924630000721663
+999,267,4,34,SemCrit,The bleach is too concentrated and requires a 1-in-5 dilation.,NA,NA,4,0.5825383000774309
+999,268,4,147,Filler,The furniture designer aspired to make objects beautiful and functional.,NA,NA,4,0.6145519999554381
+999,269,4,154,Control,She scolded the child for running backwards up an escalator.,NA,NA,4,0.4845506999408826
+999,270,4,20,SemCrit,The teacher interrupted his sentence to make a grammatical collection.,NA,NA,4,0.9564758000196889
+999,271,4,112,Filler,You should never drive a car while under the influence.,NA,NA,4,0.3611272999551147
+999,272,4,136,Filler,The insensitive paparazzi turned the singer's suffering into a spectacle.,NA,NA,4,0.7914199000224471
+999,273,4,6,Filler,The bird warbled a cheerful tune ending in a trill.,NA,NA,4,0.7246377000119537
+999,274,4,89,Sem,Candidates must be citizens, but that is the only altitude.,NA,NA,4,0.5998861999250948
+999,275,4,17,SemCrit,After my root canal the dentist prescribed a pain meditation.,NA,NA,4,0.5237422999925911
+999,276,4,52,Synt,The artist achieved eternal fame despite not seeking this immortalities.,NA,NA,4,0.6374937000218779
+999,277,4,82,Filler,The soldier had been a waitress before she was recruited.,NA,NA,4,0.6262159999459982
+999,278,4,187,Filler,He could never get enough sleep because of his insomnia.,NA,NA,4,0.5556753999553621
+999,279,4,124,Filler,The teacher asked the children's parents to volunteer as chaperones.,NA,NA,4,0.5599343000212684
+999,280,4,45,Filler,Alcatraz Island was famous for housing a high security penitentiary.,NA,NA,4,0.5126871999818832
+999,281,4,263,Filler,Both political parties accused each other of obstruction and partisanship.,NA,NA,4,0.3293800000101328
+999,282,4,68,Filler,The most popular casino card games are poker and blackjack.,NA,NA,4,0.4332338999956846
+999,283,4,32,Filler,While evacuating, she lost her phone in all the commotion.,NA,NA,4,0.40966050000861287
+999,284,4,58,Synt,It's alive! he cackled as he animated this monster Frankensteins.,NA,NA,4,36.7034184000222
+999,285,4,40,Filler,Their refusal to hire a black waitress was blatant racism.,NA,NA,4,0.39469690003897995
+999,286,4,222,Filler,The villain's struggling captive inadvertently triggered the final launch countdown.,NA,NA,4,0.33616019994951785
+999,287,4,36,SemCrit,The vicious cyclone tragically caused many deaths and much distraction.,NA,NA,4,0.7772210000548512
+999,288,4,232,Filler,She unfortunately could not attend because she had previous engagements.,NA,NA,4,0.25536210008431226
+999,289,4,274,Filler,The atomic bomb's explosion contaminated the area with dangerous radioactivity.,NA,NA,4,0.46876269998028874
+999,290,4,61,Filler,The groom joyfully carried his young bride over the threshold.,NA,NA,4,0.6905585000058636
+999,291,4,200,Filler,Overwhelmed by the sudden onslaught, the soldiers called for reinforcements.,NA,NA,4,0.720229500089772
+999,292,4,23,SemCrit,The zoo had two giraffes, an elephant, and a rhinestone.,NA,NA,4,0.9195778999710456
+999,293,4,157,Control,Considering my previous experiences, I had a rather low expectation.,NA,NA,4,0.447985399980098
+999,294,4,196,Filler,The party was a complete failure, despite all the preparations.,NA,NA,4,0.5065828000660986
+999,295,4,240,Filler,She knew the deadline was approaching, but was still procrastinating.,NA,NA,4,0.41686130000744015
+999,296,4,23,GoodExp,The reality show censored out the contestants' nudity and profanity.,NA,NA,4,0.5891078000422567
+999,297,4,132,Control,The devout Christian girl travelled to India as a missionary.,NA,NA,4,0.6994083999888971
+999,298,4,75,Synt,You cannot buy Cuban cigars because there is an embargos.,NA,NA,4,0.5026480000233278
+999,299,4,51,Filler,The woman was stubborn and refused to lose an argument.,NA,NA,4,0.5902330999961123
+999,300,4,119,Filler,Stradivari is renowned worldwide for making the most incredible violins.,NA,NA,4,0.714879900100641
+999,301,4,143,Filler,A paper airplane flew across the classroom into the trashcan.,NA,NA,4,0.5750716000329703
+999,302,4,144,Filler,She worked at the nearby grocery store as a cashier.,NA,NA,4,0.5104098001029342
+999,303,4,33,GoodExp,I was pleased to find my hosts were very welcoming.,NA,NA,4,0.4330543000251055
+999,304,4,109,Sem,The princess arrived at the ball in a horse-drawn thermal.,NA,NA,4,0.15408190002199262
+999,305,4,195,Filler,This restaurant is popular, but I think it is overrated.,NA,NA,4,0.6065554999513552
+999,306,4,31,SemCrit,The student went to medical school to become a physicist.,NA,NA,4,0.5614400000777096
+999,307,4,161,Filler,The guests dipped strawberries and bananas into the chocolate fondue.,NA,NA,4,0.4754867000738159
+999,308,4,39,SemCrit,Rupert Murdoch is the owner of a vast media umpire.,NA,NA,4,0.42760419996920973
+999,309,4,47,Synt,The heat felt even worse because of all this humidities.,NA,NA,4,0.5710972000379115
+999,310,4,244,Filler,Years after the murder, the case remains shrouded in mystery.,NA,NA,4,1.15229520003777
+999,311,4,14,Filler,A terrifying three-headed dog guarded the entrance to the underworld.,NA,NA,4,0.4278722000308335
+999,312,4,22,SemCrit,Harvesting crops is often the job of a seasonal migraine.,NA,NA,4,0.49723009997978806
+999,313,4,73,Synt,The student had his editorial published in a local gazettes.,NA,NA,4,0.4996835000347346
+999,314,4,35,SemCrit,The whining alarm shut off, finally silencing this annoying destruction.,NA,NA,4,4.392124900012277
+999,315,4,86,Sem,The child made a caterpillar from an old egg campaign.,NA,NA,4,0.473033299902454
+999,316,4,245,Filler,Pickpockets and scam artists can easily swindle a naïve traveler.,NA,NA,4,23.03432899992913
+999,317,4,256,Filler,As the child stargazed, he dreamed of becoming an astronaut.,NA,NA,4,0.5359136000042781
+999,318,4,20,Filler,You should write all your appointments down in your calendar.,NA,NA,4,0.4147388000274077
+999,319,4,66,Filler,FDR delivered many "fireside chats," which were informal radio broadcasts.,NA,NA,4,0.4826384000480175
+999,320,4,179,Filler,The film accentuated the awkward silence with a chirping cricket.,NA,NA,4,0.4717646000208333
+999,321,4,159,Filler,The girl was heartbroken and distraught after her first breakup.,NA,NA,4,0.4906926000257954
+999,322,4,88,Sem,Cats were the only company for this lonely old radium.,NA,NA,4,0.7126127999508753
+999,323,4,76,Filler,When taking medication, always be careful to follow the prescription.,NA,NA,4,0.48254460003226995
+999,324,4,138,Filler,The defiant young woman refused to become just another statistic.,NA,NA,4,0.3145315999863669
+999,325,4,262,Filler,The shopper tried on the new outfit and was pleased.,NA,NA,4,0.6426375000737607
+999,326,4,19,SemCrit,Her grandmother's pennies inspired her to start a coin correction.,NA,NA,4,0.6213481000158936
+999,327,4,265,Filler,Nobody understood the talk because the topic was too obscure.,NA,NA,4,0.5942719000158831
+999,328,4,241,Filler,When the dog heard the dinner bell, it started drooling.,NA,NA,4,0.7448822999140248
+999,329,4,29,SemCrit,The moth attracted a mate by releasing a potent pharaoh.,NA,NA,4,0.5070645000087097
+999,330,4,43,Synt,The study of sounds in language is known as phonologies.,NA,NA,4,0.3262343000387773
+999,331,4,156,Control,To protect herself from the sun, she carried a parasol.,NA,NA,4,0.6754942999687046
+999,332,4,121,Control,The celebrating couple joyfully popped open a bottle of champagne.,NA,NA,4,0.5105977000202984
+999,333,4,105,Filler,The air smelled of pine and the birds were chirping.,NA,NA,4,0.4489843000192195
+999,334,4,250,Filler,College students often must spend much money on their textbooks.,NA,NA,4,0.38658110005781054
+999,335,4,53,Synt,After the Holocaust, German history could never escape this infamies.,NA,NA,4,0.3520751999458298
+999,336,4,48,Filler,The security alarm went off when it detected the intruder.,NA,NA,4,0.6200836999341846
+999,337,4,37,Filler,The thoroughbred racing horse was ridden by an experienced jockey.,NA,NA,4,0.7491196000482887
+999,338,4,34,GoodExp,The self-absorbed man considered himself a profound thinker and philosopher.,NA,NA,4,71.50071250007022
+999,339,4,39,GoodExp,This mission is critical, and completing it successfully is imperative.,NA,NA,4,0.5933728000381961
+999,340,4,135,Filler,Core exercises like crunches and planks can strengthen the abdomen.,NA,NA,4,0.3634360999567434
+999,341,4,259,Filler,Maintaining a healthy weight requires a good diet and exercise.,NA,NA,4,0.27889329998288304
+999,342,4,36,GoodExp,The shy and awkward boy was shunned by his classmates.,NA,NA,4,0.5488533999305218
+999,343,4,2,GoodExp,Whenever he reminisces about his beloved he starts waxing poetic.,NA,NA,4,0.4951040999731049
+999,344,4,74,Filler,Of the politicians present, the governor was the most prominent.,NA,NA,4,0.4489113000454381
+999,345,4,10,SemCrit,Political corruption and economic hardship fueled a growing anti-government sediment.,NA,NA,4,0.6422507999232039
+999,346,4,101,Filler,He slipped but luckily grabbed onto the handrail by reflex.,NA,NA,4,0.4048622000264004
+999,347,4,145,Control,Yuan emperors were Mongolian because Kublai Khan founded this dynasty.,NA,NA,4,0.6181699000298977
+999,348,4,203,Filler,A society ruled or dominated by women is a matriarchy.,NA,NA,4,0.48254280001856387
+999,349,4,235,Filler,The practice of yoga can make your body more flexible.,NA,NA,4,4.5883600999368355
+999,350,4,21,Filler,The flower vase shattered when it fell off the shelf.,NA,NA,4,71.05829590000212
+999,351,4,120,Sem,Capture or kill the wanted criminal to collect an expedition.,NA,NA,4,0.618961300002411
+999,352,4,27,GoodExp,The tourist sent each of her friends a nice postcard.,NA,NA,4,0.5227426999481395
+999,353,4,150,Control,Two common semi-aquatic rodents are a beaver and a muskrat.,NA,NA,4,2.900433799950406
+999,354,4,226,Filler,Gin and vermouth are the main ingredients in a martini.,NA,NA,4,0.44966409995686263
+999,355,4,18,SemCrit,The monk sat quietly and fell into a deep medication.,NA,NA,4,0.4207087999675423
+999,356,4,102,Sem,Never stay out past midnight, was his mother's strict gazelle.,NA,NA,4,0.9395987000316381
+999,357,4,227,Filler,A masked gunman opened fire and killed three innocent bystanders.,NA,NA,escape,46.40630100003909

@@ -1,0 +1,6 @@
+subj,order,list,item,condition,sentence,question,correct_answer,response
+999,0,1,83,Synt,The circus featured an acrobat, a clown, and a jugglers.,NA,NA,1,0.9137923000380397
+999,1,1,75,Filler,The gifted rapper was famous for his complex multisyllabic rhymes.,Was the rapper known for his sense of rhythm? ,No,1,4.374982500099577
+999,2,1,31,GoodExp,The reader was drawn in by the article's sensational headline.,NA,NA,1,3.23121690005064
+999,3,1,145,Filler,The stock exchange was host to millions of financial transactions.,NA,NA,space,40.84208420000505
+999,4,1,98,Synt,The sailors feared the harsh discipline of this ship captains.,NA,NA,space,0.9298060000874102
