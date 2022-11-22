@@ -1,164 +1,164 @@
 ItemNum,Condition,Sentence,Question,Answer
-121,Control,The celebrating couple joyfully popped open a bottle of champagne.,,
+121,Control,The celebrating couple joyfully popped open a bottle of champagne.,Were they happy? ,Yes
 122,Control,"The slogan ""change"" was a focus of that presidential campaign.",Was the focal point a specific policy? ,No
-123,Control,A syllogism is a common form of a deductive inference.,,
+123,Control,A syllogism is a common form of a deductive inference.,Does the sentence mention a reptile? ,No
 124,Control,The napalm turned the luscious forest into a fiery inferno.,Was the forest fire started by campers? ,No
 125,Control,I blacked out and was confused when I regained consciousness.,Was I disoriented when I awoke? ,Yes
-126,Control,"After she deceived her mother, she had a guilty conscience.",,
+126,Control,"After she deceived her mother, she had a guilty conscience.",Was she proud of her trickery? ,No
 127,Control,The sudden change in protocol had caused all this consternation.,Was the transition gradual? ,No
 128,Control,The Big Dipper may perhaps be the most famous constellation.,Do many people know about it? ,Yes
-129,Control,The herd of cows was out grazing in a pasture.,,
-130,Control,The congregation listens to a sermon delivered by a pastor.,,
-131,Control,A soldier fighting for the highest bidder is a mercenary.,,
-132,Control,The devout Christian girl travelled to India as a missionary.,,
+129,Control,The herd of cows was out grazing in a pasture.,Was it a herd of horses? ,No
+130,Control,The congregation listens to a sermon delivered by a pastor.,Are the people listening? ,Yes
+131,Control,A soldier fighting for the highest bidder is a mercenary.,Is the fighter motivated by nationalism? ,No
+132,Control,The devout Christian girl travelled to India as a missionary.,Was the traveller religious? ,Yes
 133,Control,That white dog with little black spots is a dalmatian.,Was the creature a canine? ,Yes
-134,Control,"Once Faust signed, he was doomed to this eternal damnation.",,
+134,Control,"Once Faust signed, he was doomed to this eternal damnation.",Was his fate permanent? ,Yes
 135,Control,The crowded urban neighborhood had a very high population density.,Was the district basically deserted? ,No
-136,Control,I control my fate; I don't have a predetermined destiny.,,
+136,Control,I control my fate; I don't have a predetermined destiny.,Am I a victim of fortune? ,No
 137,Control,"She didn't answer the phone, so I left a message.",Did she pick up? ,No
 138,Control,My back was so tense I really needed a massage.,Was my problem stiff joints? ,No
 139,Control,The president of the college handed each graduate a diploma.,Was the president at the graduation? ,Yes
-140,Control,The ambassador who negotiated the deal was a skilled diplomat.,,
-141,Control,The retiree found he soon tired of all this leisure.,,
+140,Control,The ambassador who negotiated the deal was a skilled diplomat.,Was the bargain worked out by a senator?  ,No
+141,Control,The retiree found he soon tired of all this leisure.,Did he retire because he was tired? ,No
 142,Control,His personality was dramatically altered after acquiring this brain lesion.,Was the alteration noticeable? ,Yes
 143,Control,The low intensity workout compensated by having a long duration.,Was the exercise intense? ,No
 144,Control,"He idolized her, and her self-esteem benefited from this adoration.",Did he like her? ,Yes
 145,Control,Yuan emperors were Mongolian because Kublai Khan founded this dynasty.,Were the rulers Mongolian? ,Yes
 146,Control,That grenade explodes stronger than a stick of this dynamite.,Is that an explosive weapon? ,Yes
-147,Control,"The contraction for ""it is"" needs to include an apostrophe.",,
+147,Control,"The contraction for ""it is"" needs to include an apostrophe.","Is ""it's"" a valid contraction? ",Yes
 148,Control,The doomsday preacher urged repentance and warned of an apocalypse.,Was the preacher advocating temperance? ,No
 149,Control,The soldier rammed gunpowder down the barrel of a musket.,Did the soldier have a gun? ,Yes
 150,Control,Two common semi-aquatic rodents are a beaver and a muskrat.,Are these animals fairly common? ,Yes
 151,Control,"To make the car accelerate, press down on this pedal.",Will doing this stop the car? ,No
-152,Control,"He loves me? she wondered, plucking off a daisy petal.",,
+152,Control,"""He loves me?"" she wondered, plucking off a daisy petal.",Was she certain that he loved her?,No
 153,Control,"Rather than reducing violence, the intervention just caused an escalation.",Did the intervention work as planned? ,No
 154,Control,She scolded the child for running backwards up an escalator.,Did the woman scold the child? ,Yes
-155,Control,"Intestinal problems may indicate a tapeworm, a type of parasite.",,
-156,Control,"To protect herself from the sun, she carried a parasol.",,
-157,Control,"Considering my previous experiences, I had a rather low expectation.",,
+155,Control,"Intestinal problems may indicate a tapeworm, a type of parasite.",Can worms cause digestion problems? ,Yes
+156,Control,"To protect herself from the sun, she carried a parasol.",Was she trying to avoid getting wet? ,No
+157,Control,"Considering my previous experiences, I had a rather low expectation.",Did I have any past experience? ,Yes
 158,Control,Blizzards are deadly hazards for explorers on an arctic expedition.,Can the weather be dangerous? ,Yes
 159,Control,Claiming two wrongs make a right is a common fallacy.,Do people make this claim often? ,Yes
-160,Control,Don't call it a prison; call it a correctional facility.,,
-81,Sem,The lecherous satyr chased after a beautiful lithe wood destiny.,Was the pursued creature especially clumsy? ,No
-82,Sem,Two important fluids in the body are blood and campaign.,Is the sentence about bones? ,No
-83,Sem,"The circus featured an acrobat, a clown, and a cavity.",Was there a clown at the performance? ,Yes
-84,Sem,"She lunged towards his neck, going right for the nymph.",Was she trying to make him trip?  ,No
-85,Sem,"In the nineties, the Rugrats was a very popular boundary.",,
-86,Sem,The child made a caterpillar from an old egg campaign.,,
-87,Sem,Handling the rough wooden plank gave the woman a nobility.,,
-88,Sem,Cats were the only company for this lonely old radium.,,
-89,Sem,"Candidates must be citizens, but that is the only altitude.",,
-90,Sem,He had a short attention span and needed constant sediment.,Did he concentrate easily? ,No
-91,Sem,She was vaccinated so her body would developed a cartoon.,Was the injection an anesthetic? ,No
-92,Sem,"Incensed at the captain, the crew staged a full-scale correlation.",Were the sailors angry? ,Yes
-93,Sem,The mason built his own house of brick and humidity.,Did he make a wooden house? ,No
-94,Sem,The goddess refused to be bested by a mere expectation.,,
-95,Sem,"Like the IRS and FBI, CIA is another three-letter mobility.",Were they similar because they rhymed? ,No
-96,Sem,The thesaurus shows that a synonym for drunkenness is splinter.,,
-97,Sem,A lolcat is cat photograph with a humorous ungrammatical radius.,Does the sentence mention a photo? ,Yes
-98,Sem,The sailors feared the harsh discipline of this ship phrenology.,,
-99,Sem,The teacher taught that subtraction was the opposite of humility.,,
-100,Sem,The flute player nervously prepared an excerpt for a corridor.,Did the musician feel anxious? ,Yes
-101,Sem,The museum pass provides five dollars off of each carnival.,,
-102,Sem,"Never stay out past midnight, was his mother's strict gazelle.",,
-103,Sem,Old car engines mixed fuel and air in a callus.,Did the engines mix air with the fuel? ,Yes
-104,Sem,Edith Piaf's extraordinary singing career was begun in a thermos.,,
-105,Sem,On the mountaintop we felt dizzy because of this conscience.,Were we up quite high? ,Yes
-106,Sem,The coach scolded the player for having a bad shutter.,,
-107,Sem,The college sent out a newsletter to all its dynamite.,,
-108,Sem,Soda cans and tin foil are both made of exertion.,Are soda cans made from petroleum? ,No
-109,Sem,The princess arrived at the ball in a horse-drawn thermal.,Did the princess come to the ball? ,Yes
-110,Sem,The printer needed more paper and a new ink veteran.,Was the printer out of paper? ,Yes
-111,Sem,Marie Curie died of exposure to radiation from this veterinarian.,Did radiation cause her death? ,Yes
-112,Sem,No light escapes the black hole once within this cabaret.,Can high-energy light escape the black hole? ,No
-113,Sem,The United States has a large stockpile of nuclear adoration.,Do the weapons belong to the US? ,Yes
-114,Sem,The Christmas tree was decorated with many shining glass infantry.,Were the decorations for Halloween? ,No
-115,Sem,Blackmail is just one of many weapons in this consternation.,Does this weapon contain gunpowder? ,No
-116,Sem,The detectives discovered the professor was poisoned with this carriage.,Was the victim a professor? ,Yes
-117,Sem,The cheapest lunchmeat at this grocery store is this immortality.,Does this shop sell food? ,Yes
-118,Sem,Romeo longingly admired Juliet as she stood on this consciousness.,Was she seated? ,No
-119,Sem,"He soon backed away, sensing he had crossed a manatee.",Did he retreat? ,Yes
-120,Sem,Capture or kill the wanted criminal to collect an expedition.,Can the outlaw be shot? ,Yes
-41,Synt,The Caribbean cruise package includes this kayaking� and snorkeling excursions.,,
+160,Control,Don't call it a prison; call it a correctional facility.,Is it a theme park? ,No
+1,Sem,Someone who has fought in a war is a rhinestone.,Does the sentence mention a war? ,Yes
+2,Sem,The woman brought her sick pet dog to a carton.,Was the animal a canine? ,Yes
+3,Sem,The vintage wedding dress was big and required an inferno.,Was the gown too small? ,No
+4,Sem,Mediators prevented the dispute from escalating into a violent muskrat.,Was there a disagreement? ,Yes
+5,Sem,The storyteller could turn any incident into an amusing hearse.,Does the sentence mention a storyteller? ,Yes
+6,Sem,She saved him from the poison by administering a matinee.,Did she save him by amputating? ,No
+7,Sem,Clownfish have evolved invulnerability to the poison tentacles of ornaments.,Are the fish specially adapted? ,Yes
+8,Sem,The upscale apartment was complete with all these modern lymph.,Did the residence need an upgrade? ,No
+9,Sem,The flooded river fertilized the fields with a rich juggler.,Did the river overflow its banks? ,Yes
+10,Sem,Political corruption and economic hardship fueled a growing anti-government dalmatian.,Were people increasingly pro-government? ,No
+11,Sem,Up on the tree branch perched a bright red masquerade.,Does the sentence mention a tree? ,Yes
+12,Sem,There is a beanbag toss game booth at this destruction.,Were the beanbags for a game? ,Yes
+13,Sem,The reagents reacted faster in the presence of an anecdote.,Was the reaction rate increased? ,Yes
+14,Sem,"After hours of playing, the guitarist's fingertips developed a pasture.",Did the musician play the guitar? ,Yes
+15,Sem,Pikemen can be an effective defense against a charging stipulation.,Does the sentence mention a fish? ,No
+16,Sem,The dentist congratulated me on not having a single petal.,Did the dentist scold me? ,No
+17,Sem,After my root canal the dentist prescribed a pain balcony.,Did the dentist write a prescription? ,Yes
+18,Sem,The monk sat quietly and fell into a deep arsenal.,Was the monk seated? ,Yes
+19,Sem,Her grandmother's pennies inspired her to start a coin parasol.,Does the sentence mention a grandmother? ,Yes
+20,Sem,The teacher interrupted his sentence to make a grammatical mercenary.,Was he interrupted by a fire alarm? ,No
+21,Sem,An intense tension headache can be mistaken for an empire.,Does the sentence mention a headache? ,Yes
+22,Sem,Harvesting crops is often the job of a seasonal massage.,Does the sentence mention a skyscraper? ,No
+23,Sem,"The zoo had two giraffes, an elephant, and a carburetor.",Does the sentence mention a zebra? ,No
+24,Sem,The child wore a glittery crown with a pink captain.,Was the child wearing a top hat? ,No
+25,Sem,The cause of death must be determined by a dynasty.,Was the reason for the death already known? ,No
+26,Sem,His office is down at the end of this arsenic.,Does he have an office? ,Yes
+27,Sem,Statisticians emphasize that causation is not implied by a hypotenuse.,Does the sentence mention statistics? ,Yes
+28,Sem,The king knelt to be crowned at an official parasite.,Was the monarch crowned while standing? ,No
+29,Sem,The moth attracted a mate by releasing a potent admonition.,Did the insect attract a mate? ,Yes
+30,Sem,The archeologists found the mummy of a young Egyptian hearth.,Was the mummy discovered by a paleontologist? ,No
+31,Sem,The student went to medical school to become a cardinal.,Was the student a medical student? ,Yes
+32,Sem,A new gravitational theory was proposed by an eminent campaign.,Was the new theory about psychology? ,No
+33,Sem,Blinking causes a momentary pupil contraction followed by a mutiny.,Does the sentence mention the iris? ,No
+34,Sem,The bleach is too concentrated and requires a one-in-five shudder.,Is the bleach too concentrated? ,Yes
+35,Sem,"The whining alarm shut off, finally silencing this annoying mascara.",Was the alarm irritating? ,Yes
+36,Sem,The vicious cyclone tragically caused many deaths and much aluminum.,Were the deaths caused by the weather? ,Yes
+37,Sem,"Disgusted, she pulled away from his touch with a facility.",Was she grossed out?   ,Yes
+38,Sem,One window on the dilapidated house was missing a migrant.,Was the house in ill repair? ,Yes
+39,Sem,Rupert Murdoch is the owner of a vast media meditation.,Does the sentence mention a writer? ,Yes
+40,Sem,The baseball player felt cheated and swore at a coronation.,Was the player a tennis player? ,No
+41,Synt,"The Caribbean cruise package includes this kayaking, and snorkeling excursions.",Is the cruise a Mediteranean cruise?,No
 42,Synt,He had sprinted and was still sweating from this exertions.,Had he been lifting weights? ,No
 43,Synt,The study of sounds in language is known as phonologies.,Does the sentence mention music? ,No
-44,Synt,The pseudoscience of inferring personality from skull measurements is phrenologies.,,
-45,Synt,The casket was carried to the cemetery in a hearses.,Does the sentence mention a cemetary? ,Yes
+44,Synt,The pseudoscience of inferring personality from skull measurements is phrenologies.,Does the sentence mention palm reading? ,No
+45,Synt,The casket was carried to the cemetery in a hearses.,Does the sentence mention a cemetery? ,Yes
 46,Synt,"Each winter evening, the family gathers around a warm hearths.",Does the family gather berries? ,No
 47,Synt,The heat felt even worse because of all this humidities.,Was the warmth unpleasant? ,Yes
-48,Synt,The sermon denounced pride and extolled the virtue of humilities.,,
-49,Synt,The scientist designed an experiment to test a controversial hypotheses.,,
-50,Synt,Use Pythagoras' theorem to find the length of a hypotenuses.,,
-51,Synt,The preacher believed drunkenness was the cause of much immoralities.,,
+48,Synt,The sermon denounced pride and extolled the virtue of humilities.,Did the sermon mention pride? ,Yes
+49,Synt,The scientist designed an experiment to test a controversial hypotheses.,Did the scientist design a robot? ,No
+50,Synt,Use Pythagoras' theorem to find the length of a hypotenuses.,Does the sentence mention a theorem? ,Yes
+51,Synt,The preacher believed drunkenness was the cause of much immoralities.,Does the sentence mention cursing? ,No
 52,Synt,The artist achieved eternal fame despite not seeking this immortalities.,Was the artist's fame enduring? ,Yes
 53,Synt,"After the Holocaust, German history could never escape this infamies.",Does the sentence mention atom bomb? ,No
 54,Synt,"Despite technological advances, wars cannot be won without an infantries.",Has military technology improved? ,Yes
-55,Synt,"Oh, yes, very impressive, she drawled with a sarcastic inflections.",,
+55,Synt,"""Oh, yes, very impressive,"" she drawled with a sarcastic inflections.",Did she speak quickly?,No
 56,Synt,Medics cleaned and bandaged the wound to prevent an infections.,Did the medics suture the wound? ,No
 57,Synt,"The three kings bore gifts of gold, myrrh, and frankincenses.",Were the gifts brought by women? ,No
-58,Synt,It's alive! he cackled as he animated this monster Frankensteins.,,
+58,Synt,"""It's alive!"" he cackled as he animated this monster Frankensteins.",Does the sentence mention electricity?,No
 59,Synt,This docile herbivorous aquatic mammal is known as a manatees.,Is the creature a mammal? ,Yes
 60,Synt,The afternoon showing cost less because it was a matinees.,Was the show less expensive?  ,Yes
-61,Synt,Apply this eyeliner and brush your lashes with this mascaras.,,
-62,Synt,She danced with an elegant masked gentleman at that masquerades.,,
-63,Synt,Feudal lords lived off the labor of an oppressed peasantries.,,
+61,Synt,Apply this eyeliner and brush your lashes with this mascaras.,Does the sentence mention lipstick? ,No
+62,Synt,She danced with an elegant masked gentleman at that masquerades.,Did the man hide his face? ,Yes
+63,Synt,Feudal lords lived off the labor of an oppressed peasantries.,Does the sentence mention medieval clergy? ,No
 64,Synt,The hostess greeted her guests with a light social pleasantries.,Did the woman have guests? ,Yes
-65,Synt,Senator McCarthy accused the screenwriter of being a Communist sympathizers.,,
+65,Synt,Senator McCarthy accused the screenwriter of being a Communist sympathizers.,Does the sentence mention a writer? ,Yes
 66,Synt,The computer could read text aloud using a speech synthesizers.,Does the sentence mention a teacher? ,No
 67,Synt,The castle wall was adorned with a beautiful woven tapestries.,Was the decoration on the floor? ,No
 68,Synt,He denounced the novel's film adaptation as a complete travesties.,Did he recommend the movie? ,No
 69,Synt,The ring held small diamonds set around this blue sapphires.,Were there precious stones in the ring? ,Yes
-70,Synt,The rice was spiced with a pinch of that saffrons.,,
+70,Synt,The rice was spiced with a pinch of that saffrons.,Was the rice served plain? ,No
 71,Synt,"For lunch, she had brought tomato soup in a thermoses.",Did she bring her own lunch? ,Yes
 72,Synt,The soaring eagle circled and glided upwards on a thermals.,Was the bird an ostrich? ,No
-73,Synt,The student had his editorial published in a local gazettes.,,
+73,Synt,The student had his editorial published in a local gazettes.,Was the editorial published locally? ,Yes
 74,Synt,The powerful cheetah sprinted in pursuit of a baby gazelles.,Was the cheetah running? ,Yes
-75,Synt,You cannot buy Cuban cigars because there is an embargos.,,
+75,Synt,You cannot buy Cuban cigars because there is an embargos.,Do the unavailable items contain tobacco? ,Yes
 76,Synt,Some controversial stem cell research requires a fertilized human embryos.,Is some medical research controversial? ,Yes
-77,Synt,Can't you just be quiet? she snapped revealing her irritations.,,
+77,Synt,"""Can't you just be quiet?"" she snapped revealing her irritations.",Did she want silence?,Yes
 78,Synt,Agriculture in this desert would be impossible without this irrigations.,Is this place a desert? ,Yes
-79,Synt,The poor stayed poor because of this limited upward mobilities.,,
-80,Synt,Champagne was once reserved exclusively for the royalty and nobilities.,,
-1,SemCrit,Someone who has fought in a war is a veterinarian.,,
-2,SemCrit,The woman brought her sick pet dog to a veteran.,Was the animal a canine? ,Yes
-3,SemCrit,The vintage wedding dress was big and required an altercation.,,
-4,SemCrit,Mediators prevented the dispute from escalating into a violent alteration.,Was there a disagreement? ,Yes
-5,SemCrit,The storyteller could turn any incident into an amusing antidote.,,
-6,SemCrit,She saved him from the poison by administering an anecdote.,,
-7,SemCrit,Clownfish have evolved invulnerability to the poison tentacles of amenities.,Are the fish specially adapted? ,Yes
-8,SemCrit,The upscale apartment was complete with all these modern anemones.,,
-9,SemCrit,The flooded river fertilized the fields with a rich sentiment.,Did the river overflow its banks? ,Yes
-10,SemCrit,Political corruption and economic hardship fueled a growing anti-government sediment.,,
-11,SemCrit,Up on the tree branch perched a bright red carnival.,Does the sentence mention a tree? ,Yes
-12,SemCrit,There is a beanbag toss game booth at this cardinal.,Were the beanbags for a game? ,Yes
-13,SemCrit,The reagents reacted faster in the presence of a callus.,Was the reaction rate increased? ,Yes
-14,SemCrit,"After hours of playing, the guitarist's fingertips developed a catalyst.",Did the musician play the guitar? ,Yes
-15,SemCrit,Pikemen can be an effective defense against a charging cavity.,,
-16,SemCrit,The dentist congratulated me on not having a single cavalry.,Did the dentist scold me? ,No
-17,SemCrit,After my root canal the dentist prescribed a pain meditation.,,
-18,SemCrit,The monk sat quietly and fell into a deep medication.,,
-19,SemCrit,Her grandmother's pennies inspired her to start a coin correction.,Does the sentence mention a grandmother? ,Yes
-20,SemCrit,The teacher interrupted his sentence to make a grammatical collection.,,
-21,SemCrit,An intense tension headache can be mistaken for a migrant.,Does the sentence mention a headache? ,Yes
-22,SemCrit,Harvesting crops is often the job of a seasonal migraine.,Does the sentence mention a skyscraper? ,No
-23,SemCrit,"The zoo had two giraffes, an elephant, and a rhinestone.",,
-24,SemCrit,The child wore a glittery crown with a pink rhino.,Was the child wearing a top hat? ,No
-25,SemCrit,The cause of death must be determined by a corridor.,Was the reason for the death already known? ,No
-26,SemCrit,His office is down at the end of this coroner.,,
-27,SemCrit,Statisticians emphasize that causation is not implied by a coronation.,Does the sentence mention statistics? ,Yes
-28,SemCrit,The king knelt to be crowned at an official correlation.,Was the monarch crowned while standing? ,No
-29,SemCrit,The moth attracted a mate by releasing a potent pharaoh.,Did the insect attract a mate? ,Yes
-30,SemCrit,The archeologists found the mummy of a young Egyptian pheromone.,Was the mummy discovered by a paleontologist? ,No
-31,SemCrit,The student went to medical school to become a physicist.,Was the student a medical student? ,Yes
-32,SemCrit,A new gravitational theory was proposed by an eminent physician.,Was the new theory about psychology? ,No
-33,SemCrit,Blinking causes a momentary pupil contraction followed by a dilution.,,
-34,SemCrit,The bleach is too concentrated and requires a 1-in-5 dilation.,,
-35,SemCrit,"The whining alarm shut off, finally silencing this annoying destruction.",Was the alarm irritating? ,Yes
-36,SemCrit,The vicious cyclone tragically caused many deaths and much distraction.,Were the deaths caused by the weather? ,Yes
-37,SemCrit,"Disgusted, she pulled away from his touch with a shutter.",Was she grossed out?   ,Yes
-38,SemCrit,One window on the dilapidated house was missing a shudder.,Was the house in ill repair? ,Yes
-39,SemCrit,Rupert Murdoch is the owner of a vast media umpire.,Does the sentence mention a writer? ,Yes
-40,SemCrit,The baseball player felt cheated and swore at an empire.,Was the player a tennis player? ,No
+79,Synt,The poor stayed poor because of this limited upward mobilities.,Did the underpriviledged often end up wealthy?  ,No
+80,Synt,Champagne was once reserved exclusively for the royalty and nobilities.,Was champagne always widely available? ,No
+81,SemCrit,The lecherous satyr chased after a beautiful lithe wood lymph.,Was the pursued creature especially clumsy? ,No
+82,SemCrit,Two important fluids in the body are blood and nymph.,Is the sentence about bones? ,No
+83,SemCrit,"The circus featured an acrobat, a clown, and a jugular.",Was there a clown at the performance? ,Yes
+84,SemCrit,"She lunged towards his neck, going right for the juggler.",Was she trying to make him trip?  ,No
+85,SemCrit,"In the nineties, the Rugrats was a very popular carton.",Was the Rugrats obscure during the nineties? ,No
+86,SemCrit,The child made a caterpillar from an old egg cartoon.,Did the child make a caterpillar? ,Yes
+87,SemCrit,Handling the rough wooden plank gave the woman a spinster.,Had the plank been sanded down? ,No
+88,SemCrit,Cats were the only company for this lonely old splinter.,Were the companion animals aquatic? ,No
+89,SemCrit,"Candidates must be citizens, but that is the only stimulation.",Is citizenship required? ,Yes
+90,SemCrit,He had a short attention span and needed constant stipulation.,Did he concentrate easily? ,No
+91,SemCrit,She was vaccinated so her body would developed a mutiny.,Was the injection an anesthetic? ,No
+92,SemCrit,"Incensed at the captain, the crew staged a full-scale immunity.",Were the sailors angry? ,Yes
+93,SemCrit,The mason built his own house of brick and mortal.,Did he make a wooden house? ,No
+94,SemCrit,The goddess refused to be bested by a mere mortar.,Was the deity okay with losing? ,No
+95,SemCrit,"Like the IRS and FBI, CIA is another three-letter inebriation.",Were they similar because they rhymed? ,No
+96,SemCrit,The thesaurus shows that a synonym for drunkenness is abbreviation.,Was the word in the thesaurus? ,Yes
+97,SemCrit,A lolcat is cat photograph with a humorous ungrammatical captain.,Does the sentence mention a photo? ,Yes
+98,SemCrit,The sailors feared the harsh discipline of this ship caption.,Does the sentence mention sailors?,Yes
+99,SemCrit,The teacher taught that subtraction was the opposite of audition.,Was the lesson about grammar? ,No
+100,SemCrit,The flute player nervously prepared an excerpt for an addition.,Did the musician feel anxious? ,Yes
+101,SemCrit,The museum pass provides five dollars off of each admonition.,Does the pass apply to only one admission? ,No
+102,SemCrit,"""Never stay out past midnight,"" was his mother's strict admission.",Was he allowed to be out at two in the morning?,No
+103,SemCrit,Old car engines mixed fuel and air in a cabaret.,Did the engines mix air with the fuel? ,Yes
+104,SemCrit,Edith Piaf's extraordinary singing career was begun in a carburetor.,Was Edith Piaf an actress? ,No
+105,SemCrit,On the mountaintop we felt dizzy because of this attitude.,Were we up quite high? ,Yes
+106,SemCrit,The coach scolded the player for having a bad altitude.,Was the student rebuked by a peer? ,No
+107,SemCrit,The college sent out a newsletter to all its aluminum.,Does the sentence mention a college? ,Yes
+108,SemCrit,Soda cans and tin foil are both made of alumni.,Are soda cans made from petroleum? ,No
+109,SemCrit,The princess arrived at the ball in a horse-drawn cartridge.,Did the princess come to the ball? ,Yes
+110,SemCrit,The printer needed more paper and a new ink carriage.,Was the printer out of paper? ,Yes
+111,SemCrit,Marie Curie died of exposure to radiation from this radius.,Did radiation cause her death? ,Yes
+112,SemCrit,No light escapes the black hole once within this radium.,Can high-energy light escape the black hole? ,No
+113,SemCrit,The United States has a large stockpile of nuclear ornaments.,Do the weapons belong to the US? ,Yes
+114,SemCrit,The Christmas tree was decorated with many shining glass armaments.,Were the decorations for Halloween? ,No
+115,SemCrit,Blackmail is just one of many weapons in this arsenic.,Does this weapon contain gunpowder? ,No
+116,SemCrit,The detectives discovered the professor was poisoned with this arsenal.,Was the victim a professor? ,Yes
+117,SemCrit,The cheapest lunchmeat at this grocery store is this balcony.,Does this shop sell food? ,Yes
+118,SemCrit,Romeo longingly admired Juliet as she stood on this baloney.,Was she seated? ,No
+119,SemCrit,"He soon backed away, sensing he had crossed a bounty.",Did he retreat? ,Yes
+120,SemCrit,Capture or kill the wanted criminal to collect a boundary.,Can the outlaw be shot? ,Yes
 1,GoodExp,The mysterious murders crippled the community with fear and paranoia.,Was the community anxious? ,Yes
 2,GoodExp,Whenever he reminisces about his beloved he starts waxing poetic.,Do his memories make him violent? ,No
 3,GoodExp,The dentist gave her some dental floss and a toothbrush.,Was the toothbrush a gift from a teacher? ,No
@@ -196,7 +196,7 @@ ItemNum,Condition,Sentence,Question,Answer
 35,GoodExp,The meaning of the poem was left open to interpretation.,Was the implication of the poem narrowly constrained? ,No
 36,GoodExp,The shy and awkward boy was shunned by his classmates.,Did the classmates welcome the boy? ,No
 37,GoodExp,Lupus is a disease that is very difficult to diagnose.,Does the sentence mention an illness? ,Yes
-38,GoodExp,Malnutrition results when the body does not get enough nutrients.,,
+38,GoodExp,Malnutrition results when the body does not get enough nutrients.,Does the sentence mention malnutrition?,Yes
 39,GoodExp,"This mission is critical, and completing it successfully is imperative.",Is failure an option? ,No
 40,GoodExp,The audio editing software was available as a free download.,Was the software for editing photos? ,No
 1,Filler,The district attorney did not have enough evidence to prosecute.,Does the sentence mention evidence? ,Yes
@@ -206,7 +206,7 @@ ItemNum,Condition,Sentence,Question,Answer
 5,Filler,He could no longer remember anything because of his amnesia.,Was his memory exceptionally sharp? ,No
 6,Filler,The bird warbled a cheerful tune ending in a trill.,Was the tune played on a flute? ,No
 7,Filler,The terrorists threatened to kill all of the frightened hostages.,Were the terrorists threatening to kill themselves? ,No
-8,Filler,She always made a list before going shopping for groceries.,,
+8,Filler,She always made a list before going shopping for groceries.,Did she make a list before shopping?,Yes
 9,Filler,The workers went on strike to demand better living conditions.,Did the workers want better living conditions? ,Yes
 10,Filler,The old farmer plowed the corn field with a tractor.,Did the farmer grow wheat? ,No
 11,Filler,The report's aims were briefly outlined in the opening paragraph.,Were the aims made clear immediately? ,Yes
@@ -220,7 +220,7 @@ ItemNum,Condition,Sentence,Question,Answer
 19,Filler,The old abandoned house was filled with dust and cobwebs.,Was the dirty house uninhabited? ,Yes
 20,Filler,You should write all your appointments down in your calendar.,Should you write down appointments? ,Yes
 21,Filler,The flower vase shattered when it fell off the shelf.,Was the broken object a wine bottle? ,No
-22,Filler,The magnificent roaring sea made him feel small and insignificant.,,
+22,Filler,The magnificent roaring sea made him feel small and insignificant.,Did he feel significant?,No
 23,Filler,The artist carved a block of marble into a sculpture.,Was the sculpture made of marble? ,Yes
 24,Filler,The king's court was filled with scandal and political intrigue.,Was the scandal in the assembly? ,No
 25,Filler,The radio transmission we thought was secure has been intercepted.,Was the message sent over the internet? ,No
@@ -252,7 +252,7 @@ ItemNum,Condition,Sentence,Question,Answer
 51,Filler,The woman was stubborn and refused to lose an argument.,Was the woman headstrong? ,Yes
 52,Filler,She searched under the couch cushions for the television remote.,Did she search under the bed? ,No
 53,Filler,She left the snuffed out cigarette smoldering in the ashtray.,Did she throw the cigarette on the sidewalk? ,No
-54,Filler,The bodyguard chased after the fan at the rock concert.,,
+54,Filler,The bodyguard chased after the fan at the rock concert.,Did the bodyguard chase after the fan?,Yes
 55,Filler,Apple pie filling is usually spiced with nutmeg and cinnamon.,Does the recipe include thyme? ,No
 56,Filler,Many young sports players look up to their team captains.,Do they disrespect the captains? ,No
 57,Filler,She took a ballroom dancing class to learn the tango.,Did she want to learn to dance? ,Yes
@@ -323,7 +323,7 @@ ItemNum,Condition,Sentence,Question,Answer
 122,Filler,Treatment was usually much more difficult and expensive than prevention.,Was prevention usually more costly? ,No
 123,Filler,The public swimming pool was carefully supervised by a lifeguard.,Was the pool open to the public? ,Yes
 124,Filler,The teacher asked the children's parents to volunteer as chaperones.,Did the teacher want the parents involved? ,Yes
-125,Filler,"As death approached, the patient's breathing became shallow and irregular.",,
+125,Filler,"As death approached, the patient's breathing became shallow and irregular.",Does the sentence mention a patient?,Yes
 126,Filler,The mobster was caught and charged with blackmail and extortion.,Was the mobster captured? ,Yes
 127,Filler,The runner ran every day to train for the marathon.,Did the runner train by biking? ,No
 128,Filler,The judge ordered the audience to stop disrupting the proceedings.,Was the audience being unruly? ,Yes
@@ -344,7 +344,7 @@ ItemNum,Condition,Sentence,Question,Answer
 143,Filler,A paper airplane flew across the classroom into the trashcan.,Did the airplane land on the teacher's desk? ,No
 144,Filler,She worked at the nearby grocery store as a cashier.,Did she work at a clothing store? ,No
 145,Filler,The stock exchange was host to millions of financial transactions.,Does the sentence mention an office building? ,No
-146,Filler,Stagnant water is the perfect breeding ground for a mosquito.,,
+146,Filler,Stagnant water is the perfect breeding ground for a mosquito.,Does the sentence mention a mosquito?,Yes
 147,Filler,The furniture designer aspired to make objects beautiful and functional.,Was the designer making clothing? ,No
 148,Filler,He was frightened by the woman's sudden anger and hostility.,Was he startled by her laughter?  ,No
 149,Filler,"At the movie's climax, the hero finally battles his nemesis.",Is the climactic scene a fight? ,Yes
@@ -362,9 +362,9 @@ ItemNum,Condition,Sentence,Question,Answer
 161,Filler,The guests dipped strawberries and bananas into the chocolate fondue.,Were the guests eating fruit? ,Yes
 162,Filler,Spring rolls filled with vegetables are a great healthy appetizer.,Are vegetable spring rolls healthy? ,Yes
 163,Filler,The teacher's experience as a counselor gave her valuable insight.,Had the teacher worked previously as a counselor? ,Yes
-164,Filler,The missionary hoped that many local people would be converted.,,
+164,Filler,The missionary hoped that many local people would be converted.,Does the sentence mention a missionary?,Yes
 165,Filler,"She believed herself in love, but it was just infatuation.",Was she really in love? ,No
-166,Filler,Children should never use lighters or fireworks without adult supervision.,Do the kids to be watched? ,Yes
+166,Filler,Children should never use lighters or fireworks without adult supervision.,Should the kids be watched? ,Yes
 167,Filler,"Supposedly, scrubbing your face with oatmeal is great for exfoliation.",Is oatmeal good for your skin? ,Yes
 168,Filler,The detective dusted the glass to reveal the criminal's fingerprint.,Was the fingerprint discovered by a detective? ,Yes
 169,Filler,Most works take ninety-five years to enter the public domain.,Do works enter the public domain after ten years? ,No
@@ -392,14 +392,14 @@ ItemNum,Condition,Sentence,Question,Answer
 191,Filler,The French doors opened out onto a large shaded terrace.,Did the doors open outwards? ,Yes
 192,Filler,A baroness gave some salad leaves to her pet bunny.,Was the lady feeding her pet carrots? ,No
 193,Filler,"During the holiday season, many stores offer complimentary gift wrapping.",Do some stores wrap gifts? ,Yes
-194,Filler,The room's décor was overwhelmed by the extravagant floral wallpaper.,Was the wallpaper subdued?  ,No
+194,Filler,The room's decor was overwhelmed by the extravagant floral wallpaper.,Was the wallpaper subdued?  ,No
 195,Filler,"This restaurant is popular, but I think it is overrated.",Do many people like the restaurant? ,Yes
 196,Filler,"The party was a complete failure, despite all the preparations.",Did the party go well? ,No
 197,Filler,A crepe is like a very thin and delicate pancake.,Is a pancake similar to a crepe? ,Yes
 198,Filler,Law enforcement officials cannot search your home without a warrant.,Do the police need a warrant to search a house? ,Yes
 199,Filler,I found her fascination with the deaths just plain morbid.,Was she intrigued by the deaths?  ,Yes
 200,Filler,"Overwhelmed by the sudden onslaught, the soldiers called for reinforcements.",Did the troops need backup? ,Yes
-201,Filler,"As the population ages, more adults find themselves becoming caregivers.",,
+201,Filler,"As the population ages, more adults find themselves becoming caregivers.",Were adults becoming caregivers?,Yes
 202,Filler,Friends gathered to honor the memory of the dearly departed.,Does the sentence mention a family? ,No
 203,Filler,A society ruled or dominated by women is a matriarchy.,Does the sentence mention social dominance? ,Yes
 204,Filler,The student raced to finish the paper before the deadline.,Was the student's writing rushed? ,Yes
@@ -428,7 +428,7 @@ ItemNum,Condition,Sentence,Question,Answer
 227,Filler,A masked gunman opened fire and killed three innocent bystanders.,Were the bystanders killed by an explosion? ,No
 228,Filler,"If it is too sunny, you should close the curtains.",Should you close curtains if it is cloudy? ,No
 229,Filler,The surgeon asked the nurse to hand him a scalpel.,Did the surgeon want a piece of gauze? ,No
-230,Filler,"Despite their creative freedoms, film directors ultimately answer to producers.",,
+230,Filler,"Despite their creative freedoms, film directors ultimately answer to producers.",Does the sentence mention film directors?,Yes
 231,Filler,Technology raises questions that are not just practical but ethical.,Does technology sometimes cause moral dilemmas? ,Yes
 232,Filler,She unfortunately could not attend because she had previous engagements.,Was the woman attending? ,No
 233,Filler,The skilled surgeon sliced through the flesh with unerring precision.,Does the sentence mention a butcher? ,No
@@ -436,14 +436,14 @@ ItemNum,Condition,Sentence,Question,Answer
 235,Filler,The practice of yoga can make your body more flexible.,Does yoga make your joints stiffer? ,No
 236,Filler,The public drinking water supply was tested regularly for contaminants.,Does the sentence mention the ocean? ,No
 237,Filler,"After the tornado, it took days to restore the electricity.",Did the weather disrupt the electricity? ,Yes
-238,Filler,It is cliché to say teenagers think they are invincible.,Is it common to consider teens overconfident? ,Yes
+238,Filler,It is cliche to say teenagers think they are invincible.,Is it common to consider teens overconfident? ,Yes
 239,Filler,The rich old woman left her grandson a large inheritance.,Was her fortune left to her nephew? ,No
 240,Filler,"She knew the deadline was approaching, but was still procrastinating.",Was she aware of the deadline? ,Yes
 241,Filler,"When the dog heard the dinner bell, it started drooling.",Was the animal a reptile? ,No
 242,Filler,"To garner support for the war, the government issued propaganda.",Was the propaganda for an economic agenda? ,No
 243,Filler,He hoped his research would lead to many practical applications.,Was his invention ready for consumers? ,No
 244,Filler,"Years after the murder, the case remains shrouded in mystery.",Was the mysterious case a murder? ,Yes
-245,Filler,Pickpockets and scam artists can easily swindle a naïve traveler.,Are travelers difficult to trick? ,No
+245,Filler,Pickpockets and scam artists can easily swindle a naive traveler.,Are travelers difficult to trick? ,No
 246,Filler,When the parents went out together they hired a babysitter.,Did the couple have children? ,Yes
 247,Filler,The woman used the ATM to make a cash withdrawal.,Did she make a deposit? ,No
 248,Filler,Scientists believe an asteroid impact is what killed the dinosaurs.,Do they think a volcanic eruption caused the extinctions? ,No
@@ -461,7 +461,7 @@ ItemNum,Condition,Sentence,Question,Answer
 260,Filler,Public accountants must pass a rigorous exam to become certified.,Do they need to take a test? ,Yes
 261,Filler,This common but delicious hearty vegetable soup is called minestrone.,Is this soup unusual? ,No
 262,Filler,The shopper tried on the new outfit and was pleased.,Did the shopper like the clothes? ,Yes
-263,Filler,Both political parties accused each other of obstruction and partisanship.,,
+263,Filler,Both political parties accused each other of obstruction and partisanship.,Does the sentence mention a lawyer?,No
 264,Filler,A lab assistant fainted because the room was too stuffy.,Did the assistant faint because there was blood? ,No
 265,Filler,Nobody understood the talk because the topic was too obscure.,Was the talk hard to understand? ,Yes
 266,Filler,Studies have shown that the most addictive substance is nicotine.,Is cocaine more addictive than nicotine? ,No
@@ -471,7 +471,7 @@ ItemNum,Condition,Sentence,Question,Answer
 270,Filler,She liked the magazine so she bought a monthly subscription.,Did she subscribe to a newspaper? ,No
 271,Filler,The cause of the helicopter crash was a mechanical malfunction.,Did the malfunction cause a car crash? ,No
 272,Filler,A nobleman traveled to distant lands in search of adventure.,Was the traveler seeking riches? ,No
-273,Filler,Hot ash and lava spewed from the violently erupting volcano.,,
+273,Filler,Hot ash and lava spewed from the violently erupting volcano.,Does the sentence mention lava?,Yes
 274,Filler,The atomic bomb's explosion contaminated the area with dangerous radioactivity.,Was the contamination from a nuclear power plant? ,No
 275,Filler,She felt that the novel was spoiled by the translation.,Did she prefer the book in its original language? ,Yes
 276,Filler,He drank some alcohol to try to lessen his inhibitions.,Did he hope the alcohol would relax him? ,Yes

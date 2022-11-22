@@ -37,9 +37,9 @@ if not os.path.exists(results_folder):
     os.makedirs(results_folder)
 
 # make a csv file to save data
-outputFileName = os.path.join(results_folder + '/s' + str(subjnum) + '_' + str(srand) + '.csv')
+outputFileName = os.path.join(results_folder + '/s' + str(subjnum) + '_' + str(srand) + '.tsv')
 dataFile = open(outputFileName, 'w')  # a simple text file with 'comma-separated-values'
-dataFile.write('subj,order,list,item,condition,sentence,question,correct_answer,response\n')
+dataFile.write('subj\torder\tlist\titem\tcondition\tsentence\tquestion\tcorrect_answer\tresponse\n')
 
 # read in information about items and conditions into a dataframe
 #listNum = numpy.random.randint(1,8)
@@ -203,9 +203,11 @@ def run_question(quest, trial_index, question_index, total, consecutive, noquest
     consecutive = 0
     noquestion = noquestion + 1
     flag = False
+    #print(randnum)
     if (total < 60) and type(quest) is str:
         if (randnum < 125 and consecutive < 3) or (noquestion > 20) or (480 - trial_index <= 60 - total):
             question_index = trial_index
+            noquestion = 0
             consecutive = consecutive + 1
             total = total + 1
             flag = True
@@ -308,7 +310,7 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
         resp = button_pressed[0]
         RT = button_pressed[1]
     #print(item, resp)
-        dataFile.write(str(subjnum) + ',' + str(trial_index) + ',' + str(listNum) + ',' + str(item) + ',' + cond + ',' + sent + ',' + quest + ',' + ans + ',' + str(resp) + ',' + str(RT) + '\n')
+        dataFile.write(str(subjnum) + '\t' + str(trial_index) + '\t' + str(listNum) + '\t' + str(item) + '\t' + cond + '\t' + sent + '\t' + quest + '\t' + ans + '\t' + str(resp) + '\t' + str(RT) + '\n')
     else:
         event.clearEvents()  # clear cached PsychoPy events
         button_pressed = show_msg(win, 'Please press any button to continue')
@@ -316,11 +318,11 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
         resp = button_pressed[0]
         RT = button_pressed[1]
     #print(item, resp)
-        dataFile.write(str(subjnum) + ',' + str(trial_index) + ',' + str(listNum) + ',' + str(item) + ',' + cond + ',' + sent + ',' + 'NA' + ',' + 'NA' + ',' + str(resp) + ',' + str(RT) + '\n')
+        dataFile.write(str(subjnum) + '\t' + str(trial_index) + '\t' + str(listNum) + '\t' + str(item) + '\t' + cond + '\t' + sent + '\t' + 'NA' + '\t' + 'NA' + '\t' + str(resp) + '\t' + str(RT) + '\n')
     # clear the screen
     clear_screen(win)
     
-    if trial_index % 48 == 0:
+    if (trial_index % 48 == 0) and (trial_index != 0):
         break_msg = 'Take a break now!\n' + \
     '\nPress any button to resume.\n'
         show_msg(win, break_msg)
