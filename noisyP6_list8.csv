@@ -77,7 +77,7 @@ ItemNum,Condition,Sentence,Question,Answer
 36,Sem,The vicious cyclone tragically caused many deaths and much aluminum.,Were the deaths caused by the weather? ,Yes
 37,Sem,"Disgusted, she pulled away from his touch with a facility.",Was she grossed out?   ,Yes
 38,Sem,One window on the dilapidated house was missing a migrant.,Was the house in ill repair? ,Yes
-39,Sem,Rupert Murdoch is the owner of a vast media meditation.,Does the sentence mention a writer? ,Yes
+39,Sem,Rupert Murdoch is the owner of a vast media meditation.,Does the sentence mention a writer? ,No
 40,Sem,The baseball player felt cheated and swore at a coronation.,Was the player a tennis player? ,No
 41,Synt,"The Caribbean cruise package includes this kayaking, and snorkeling excursions.",Is the cruise a Mediteranean cruise?,No
 42,Synt,He had sprinted and was still sweating from this exertions.,Had he been lifting weights? ,No
@@ -91,7 +91,7 @@ ItemNum,Condition,Sentence,Question,Answer
 50,Synt,Use Pythagoras' theorem to find the length of a hypotenuses.,Does the sentence mention a theorem? ,Yes
 51,Synt,The preacher believed drunkenness was the cause of much immoralities.,Does the sentence mention cursing? ,No
 52,Synt,The artist achieved eternal fame despite not seeking this immortalities.,Was the artist's fame enduring? ,Yes
-53,Synt,"After the Holocaust, German history could never escape this infamies.",Does the sentence mention atom bomb? ,No
+53,Synt,"After the Holocaust, German history could never escape this infamies.",Does the sentence mention the atom bomb? ,No
 54,Synt,"Despite technological advances, wars cannot be won without an infantries.",Has military technology improved? ,Yes
 55,Synt,"""Oh, yes, very impressive,"" she drawled with a sarcastic inflections.",Did she speak quickly?,No
 56,Synt,Medics cleaned and bandaged the wound to prevent an infections.,Did the medics suture the wound? ,No
@@ -135,7 +135,7 @@ ItemNum,Condition,Sentence,Question,Answer
 94,SemCrit,The goddess refused to be bested by a mere mortar.,Was the deity okay with losing? ,No
 95,SemCrit,"Like the IRS and FBI, CIA is another three-letter inebriation.",Were they similar because they rhymed? ,No
 96,SemCrit,The thesaurus shows that a synonym for drunkenness is abbreviation.,Was the word in the thesaurus? ,Yes
-97,SemCrit,A lolcat is cat photograph with a humorous ungrammatical captain.,Does the sentence mention a photo? ,Yes
+97,SemCrit,A lolcat is a cat photograph with a humorous ungrammatical captain.,Does the sentence mention a photo? ,Yes
 98,SemCrit,The sailors feared the harsh discipline of this ship caption.,Does the sentence mention sailors?,Yes
 99,SemCrit,The teacher taught that subtraction was the opposite of audition.,Was the lesson about grammar? ,No
 100,SemCrit,The flute player nervously prepared an excerpt for an addition.,Did the musician feel anxious? ,Yes
@@ -215,7 +215,7 @@ ItemNum,Condition,Sentence,Question,Answer
 14,Filler,A terrifying three-headed dog guarded the entrance to the underworld.,Was the dog intimidating? ,Yes
 15,Filler,"When my microwave died, I searched online for a replacement.",Did the microwave break? ,Yes
 16,Filler,"If you want concentrated broth, you should simmer it uncovered.",Should you leave the lid on while thickening broth? ,No
-17,Filler,Regulating interstate trade is a job of the federal government.,Is the government in charge the federal government? ,Yes
+17,Filler,Regulating interstate trade is a job of the federal government.,Does the sentence mention the federal government?,Yes
 18,Filler,You can make positive change if you take the initiative.,Does the sentence mention failure? ,No
 19,Filler,The old abandoned house was filled with dust and cobwebs.,Was the dirty house uninhabited? ,Yes
 20,Filler,You should write all your appointments down in your calendar.,Should you write down appointments? ,Yes
@@ -319,7 +319,7 @@ ItemNum,Condition,Sentence,Question,Answer
 118,Filler,"The tropical greenhouse was filled with ferns, hibiscus, and orchids.",Were the plants in a greenhouse? ,Yes
 119,Filler,Stradivari is renowned worldwide for making the most incredible violins.,Is his fame limited to Europe? ,No
 120,Filler,The gambler had lost lots of money at this casino.,Did the gambler lose any bets? ,Yes
-121,Filler,We watched setting sun and lingered together in the twilight.,Was the sun rising? ,Yes
+121,Filler,We watched the setting sun and lingered together in the twilight.,Was the sun rising? ,Yes
 122,Filler,Treatment was usually much more difficult and expensive than prevention.,Was prevention usually more costly? ,No
 123,Filler,The public swimming pool was carefully supervised by a lifeguard.,Was the pool open to the public? ,Yes
 124,Filler,The teacher asked the children's parents to volunteer as chaperones.,Did the teacher want the parents involved? ,Yes
@@ -355,7 +355,7 @@ ItemNum,Condition,Sentence,Question,Answer
 154,Filler,A conscientious objector refuses the draft because of religious convictions.,Does the sentence mention a draft? ,Yes
 155,Filler,Wearing shoes that don't fit will give you a blister.,Does the sentence mention socks? ,No
 156,Filler,"Upon seeing the dead body, he pulled away in revulsion.",Was he disgusted by a rotting piece of fruit? ,No
-157,Filler,The spy hoped nobody would recognize her through her disguise.,Was disguised woman a spy? ,Yes
+157,Filler,The spy hoped nobody would recognize her through her disguise.,Was the disguised woman a spy? ,Yes
 158,Filler,The ill airplane passenger was aided by the flight attendant.,Was the attendant helpful?  ,Yes
 159,Filler,The girl was heartbroken and distraught after her first breakup.,Was the girl upset about her grades? ,No
 160,Filler,All the candidates campaigned intensely to secure their party's nomination.,Was the competition intense? ,Yes
@@ -372,7 +372,7 @@ ItemNum,Condition,Sentence,Question,Answer
 171,Filler,The souls of the wicked were condemned to eternal torment.,Did the wicked suffer? ,Yes
 172,Filler,The protests were swiftly followed by a harsh government crackdown.,Were the protestors protected by the government? ,No
 173,Filler,"Because the snake is highly poisonous, it is brightly colored.",Is the poisonous animal a snake? ,Yes
-174,Filler,At the airport they finally parted after exchanging tearful farewells.,Was the water's temperature consistently monitored? ,No
+174,Filler,At the airport they finally parted after exchanging tearful farewells.,Does the sentence mention a train?,No
 175,Filler,The bridesmaids happily vied to catch the bride's wedding bouquet.,Were they trying to catch the garter? ,No
 176,Filler,"To make tea, you should boil water in a kettle.",Should the water boil? ,Yes
 177,Filler,Smoking tobacco greatly increases the risk of developing lung cancer.,Does smoking decrease the risk of cancer? ,No

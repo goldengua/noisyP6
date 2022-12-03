@@ -37,9 +37,9 @@ ItemNum,Condition,Sentence,Question,Answer
 36,Control,The vicious cyclone tragically caused many deaths and much destruction.,Were the deaths caused by the weather? ,Yes
 37,Control,"Disgusted, she pulled away from his touch with a shudder.",Was she grossed out?   ,Yes
 38,Control,One window on the dilapidated house was missing a shutter.,Was the house in ill repair? ,Yes
-39,Control,Rupert Murdoch is the owner of a vast media empire.,Does the sentence mention a writer? ,Yes
+39,Control,Rupert Murdoch is the owner of a vast media empire.,Does the sentence mention a writer? ,No
 40,Control,The baseball player felt cheated and swore at an umpire.,Was the player a tennis player? ,No
-41,Control,The Caribbean cruise package includes this kayakingâ and snorkeling excursion.,Is the cruise a Mediteranean cruise?,No
+41,Control,"The Caribbean cruise package includes this kayaking, and snorkeling excursion.",Is the cruise a Mediteranean cruise?,No
 42,Control,He had sprinted and was still sweating from this exertion.,Had he been lifting weights? ,No
 43,Control,The study of sounds in language is known as phonology.,Does the sentence mention music? ,No
 44,Control,The pseudoscience of inferring personality from skull measurements is phrenology.,Does the sentence mention palm reading? ,No
@@ -51,7 +51,7 @@ ItemNum,Condition,Sentence,Question,Answer
 50,Control,Use Pythagoras' theorem to find the length of a hypotenuse.,Does the sentence mention a theorem? ,Yes
 51,Control,The preacher believed drunkenness was the cause of much immorality.,Does the sentence mention cursing? ,No
 52,Control,The artist achieved eternal fame despite not seeking this immortality.,Was the artist's fame enduring? ,Yes
-53,Control,"After the Holocaust, German history could never escape this infamy.",Does the sentence mention atom bomb? ,No
+53,Control,"After the Holocaust, German history could never escape this infamy.",Does the sentence mention the atom bomb? ,No
 54,Control,"Despite technological advances, wars cannot be won without an infantry.",Has military technology improved? ,Yes
 55,Control,"""Oh, yes, very impressive,"" she drawled with a sarcastic inflection.",Did she speak quickly?,No
 56,Control,Medics cleaned and bandaged the wound to prevent an infection.,Did the medics suture the wound? ,No
@@ -95,7 +95,7 @@ ItemNum,Condition,Sentence,Question,Answer
 94,Control,The goddess refused to be bested by a mere mortal.,Was the deity okay with losing? ,No
 95,Control,"Like the IRS and FBI, CIA is another three-letter abbreviation.",Were they similar because they rhymed? ,No
 96,Control,The thesaurus shows that a synonym for drunkenness is inebriation.,Was the word in the thesaurus? ,Yes
-97,Control,A lolcat is cat photograph with a humorous ungrammatical caption.,Does the sentence mention a photo? ,Yes
+97,Control,A lolcat is a cat photograph with a humorous ungrammatical caption.,Does the sentence mention a photo? ,Yes
 98,Control,The sailors feared the harsh discipline of this ship captain.,Does the sentence mention sailors?,Yes
 99,Control,The teacher taught that subtraction was the opposite of addition.,Was the lesson about grammar? ,No
 100,Control,The flute player nervously prepared an excerpt for an audition.,Did the musician feel anxious? ,Yes
@@ -197,7 +197,7 @@ ItemNum,Condition,Sentence,Question,Answer
 36,Sem,The vicious cyclone tragically caused many deaths and much aluminum.,Were the deaths caused by the weather? ,Yes
 37,Sem,"Disgusted, she pulled away from his touch with a facility.",Was she grossed out?   ,Yes
 38,Sem,One window on the dilapidated house was missing a migrant.,Was the house in ill repair? ,Yes
-39,Sem,Rupert Murdoch is the owner of a vast media meditation.,Does the sentence mention a writer? ,Yes
+39,Sem,Rupert Murdoch is the owner of a vast media meditation.,Does the sentence mention a writer? ,No
 40,Sem,The baseball player felt cheated and swore at a coronation.,Was the player a tennis player? ,No
 41,Sem,"The Caribbean cruise package includes this kayaking, and snorkeling irritation.",Is the cruise a Mediteranean cruise?,No
 42,Sem,He had sprinted and was still sweating from this cardinal.,Had he been lifting weights? ,No
@@ -211,7 +211,7 @@ ItemNum,Condition,Sentence,Question,Answer
 50,Sem,Use Pythagoras' theorem to find the length of a cavalry.,Does the sentence mention a theorem? ,Yes
 51,Sem,The preacher believed drunkenness was the cause of much irrigation.,Does the sentence mention cursing? ,No
 52,Sem,The artist achieved eternal fame despite not seeking this dilation.,Was the artist's fame enduring? ,Yes
-53,Sem,"After the Holocaust, German history could never escape this antidote.",Does the sentence mention atom bomb? ,No
+53,Sem,"After the Holocaust, German history could never escape this antidote.",Does the sentence mention the atom bomb? ,No
 54,Sem,"Despite technological advances, wars cannot be won without an embryo.",Has military technology improved? ,Yes
 55,Sem,"""Oh, yes, very impressive,"" she drawled with a sarcastic pastor.",Did she speak quickly?,No
 56,Sem,Medics cleaned and bandaged the wound to prevent a sapphire.,Did the medics suture the wound? ,No
@@ -255,7 +255,7 @@ ItemNum,Condition,Sentence,Question,Answer
 94,Sem,The goddess refused to be bested by a mere expectation.,Was the deity okay with losing? ,No
 95,Sem,"Like the IRS and FBI, CIA is another three-letter mobility.",Were they similar because they rhymed? ,No
 96,Sem,The thesaurus shows that a synonym for drunkenness is splinter.,Was the word in the thesaurus? ,Yes
-97,Sem,A lolcat is cat photograph with a humorous ungrammatical radius.,Does the sentence mention a photo? ,Yes
+97,Sem,A lolcat is a cat photograph with a humorous ungrammatical radius.,Does the sentence mention a photo? ,Yes
 98,Sem,The sailors feared the harsh discipline of this ship phrenology.,Does the sentence mention sailors?,Yes
 99,Sem,The teacher taught that subtraction was the opposite of humility.,Was the lesson about grammar? ,No
 100,Sem,The flute player nervously prepared an excerpt for a corridor.,Did the musician feel anxious? ,Yes
@@ -357,7 +357,7 @@ ItemNum,Condition,Sentence,Question,Answer
 36,Synt,The vicious cyclone tragically caused many deaths and much destructions.,Were the deaths caused by the weather? ,Yes
 37,Synt,"Disgusted, she pulled away from his touch with a shudders.",Was she grossed out?   ,Yes
 38,Synt,One window on the dilapidated house was missing a shutters.,Was the house in ill repair? ,Yes
-39,Synt,Rupert Murdoch is the owner of a vast media empires.,Does the sentence mention a writer? ,Yes
+39,Synt,Rupert Murdoch is the owner of a vast media empires.,Does the sentence mention a writer? ,No
 40,Synt,The baseball player felt cheated and swore at an umpires.,Was the player a tennis player? ,No
 41,Synt,"The Caribbean cruise package includes this kayaking, and snorkeling excursions.",Is the cruise a Mediteranean cruise?,No
 42,Synt,He had sprinted and was still sweating from this exertions.,Had he been lifting weights? ,No
@@ -371,7 +371,7 @@ ItemNum,Condition,Sentence,Question,Answer
 50,Synt,Use Pythagoras' theorem to find the length of a hypotenuses.,Does the sentence mention a theorem? ,Yes
 51,Synt,The preacher believed drunkenness was the cause of much immoralities.,Does the sentence mention cursing? ,No
 52,Synt,The artist achieved eternal fame despite not seeking this immortalities.,Was the artist's fame enduring? ,Yes
-53,Synt,"After the Holocaust, German history could never escape this infamies.",Does the sentence mention atom bomb? ,No
+53,Synt,"After the Holocaust, German history could never escape this infamies.",Does the sentence mention the atom bomb? ,No
 54,Synt,"Despite technological advances, wars cannot be won without an infantries.",Has military technology improved? ,Yes
 55,Synt,"""Oh, yes, very impressive,"" she drawled with a sarcastic inflections.",Did she speak quickly?,No
 56,Synt,Medics cleaned and bandaged the wound to prevent an infections.,Did the medics suture the wound? ,No
@@ -415,7 +415,7 @@ ItemNum,Condition,Sentence,Question,Answer
 94,Synt,The goddess refused to be bested by a mere mortals.,Was the deity okay with losing? ,No
 95,Synt,"Like the IRS and FBI, CIA is another three-letter abbreviations.",Were they similar because they rhymed? ,No
 96,Synt,The thesaurus shows that a synonym for drunkenness is inebriations.,Was the word in the thesaurus? ,Yes
-97,Synt,A lolcat is cat photograph with a humorous ungrammatical captions.,Does the sentence mention a photo? ,Yes
+97,Synt,A lolcat is a cat photograph with a humorous ungrammatical captions.,Does the sentence mention a photo? ,Yes
 98,Synt,The sailors feared the harsh discipline of this ship captains.,Does the sentence mention sailors?,Yes
 99,Synt,The teacher taught that subtraction was the opposite of additions.,Was the lesson about grammar? ,No
 100,Synt,The flute player nervously prepared an excerpt for an auditions.,Did the musician feel anxious? ,Yes
@@ -517,9 +517,9 @@ ItemNum,Condition,Sentence,Question,Answer
 36,SemCrit,The vicious cyclone tragically caused many deaths and much distraction.,Were the deaths caused by the weather? ,Yes
 37,SemCrit,"Disgusted, she pulled away from his touch with a shutter.",Was she grossed out?   ,Yes
 38,SemCrit,One window on the dilapidated house was missing a shudder.,Was the house in ill repair? ,Yes
-39,SemCrit,Rupert Murdoch is the owner of a vast media umpire.,Does the sentence mention a writer? ,Yes
+39,SemCrit,Rupert Murdoch is the owner of a vast media umpire.,Does the sentence mention a writer? ,No
 40,SemCrit,The baseball player felt cheated and swore at an empire.,Was the player a tennis player? ,No
-41,SemCrit,The Caribbean cruise package includes this kayakingâ and snorkeling exertion.,Is the cruise a Mediteranean cruise?,No
+41,SemCrit,"The Caribbean cruise package includes this kayaking, and snorkeling exertion.",Is the cruise a Mediteranean cruise?,No
 42,SemCrit,He had sprinted and was still sweating from this excursion.,Had he been lifting weights? ,No
 43,SemCrit,The study of sounds in language is known as phrenology.,Does the sentence mention music? ,No
 44,SemCrit,The pseudoscience of inferring personality from skull measurements is phonology.,Does the sentence mention palm reading? ,No
@@ -531,7 +531,7 @@ ItemNum,Condition,Sentence,Question,Answer
 50,SemCrit,Use Pythagoras' theorem to find the length of a hypothesis.,Does the sentence mention a theorem? ,Yes
 51,SemCrit,The preacher believed drunkenness was the cause of much immortality.,Does the sentence mention cursing? ,No
 52,SemCrit,The artist achieved eternal fame despite not seeking this immorality.,Was the artist's fame enduring? ,Yes
-53,SemCrit,"After the Holocaust, German history could never escape this infantry.",Does the sentence mention atom bomb? ,No
+53,SemCrit,"After the Holocaust, German history could never escape this infantry.",Does the sentence mention the atom bomb? ,No
 54,SemCrit,"Despite technological advances, wars cannot be won without an infamy.",Has military technology improved? ,Yes
 55,SemCrit,"""Oh, yes, very impressive,"" she drawled with a sarcastic infection.",Did she speak quickly?,No
 56,SemCrit,Medics cleaned and bandaged the wound to prevent an inflection.,Did the medics suture the wound? ,No
@@ -575,7 +575,7 @@ ItemNum,Condition,Sentence,Question,Answer
 94,SemCrit,The goddess refused to be bested by a mere mortar.,Was the deity okay with losing? ,No
 95,SemCrit,"Like the IRS and FBI, CIA is another three-letter inebriation.",Were they similar because they rhymed? ,No
 96,SemCrit,The thesaurus shows that a synonym for drunkenness is abbreviation.,Was the word in the thesaurus? ,Yes
-97,SemCrit,A lolcat is cat photograph with a humorous ungrammatical captain.,Does the sentence mention a photo? ,Yes
+97,SemCrit,A lolcat is a cat photograph with a humorous ungrammatical captain.,Does the sentence mention a photo? ,Yes
 98,SemCrit,The sailors feared the harsh discipline of this ship caption.,Does the sentence mention sailors?,Yes
 99,SemCrit,The teacher taught that subtraction was the opposite of audition.,Was the lesson about grammar? ,No
 100,SemCrit,The flute player nervously prepared an excerpt for an addition.,Did the musician feel anxious? ,Yes
@@ -735,7 +735,7 @@ ItemNum,Condition,Sentence,Question,Answer
 14,Filler,A terrifying three-headed dog guarded the entrance to the underworld.,Was the dog intimidating? ,Yes
 15,Filler,"When my microwave died, I searched online for a replacement.",Did the microwave break? ,Yes
 16,Filler,"If you want concentrated broth, you should simmer it uncovered.",Should you leave the lid on while thickening broth? ,No
-17,Filler,Regulating interstate trade is a job of the federal government.,Is the government in charge the federal government? ,Yes
+17,Filler,Regulating interstate trade is a job of the federal government.,Does the sentence mention the federal government?,Yes
 18,Filler,You can make positive change if you take the initiative.,Does the sentence mention failure? ,No
 19,Filler,The old abandoned house was filled with dust and cobwebs.,Was the dirty house uninhabited? ,Yes
 20,Filler,You should write all your appointments down in your calendar.,Should you write down appointments? ,Yes
@@ -839,7 +839,7 @@ ItemNum,Condition,Sentence,Question,Answer
 118,Filler,"The tropical greenhouse was filled with ferns, hibiscus, and orchids.",Were the plants in a greenhouse? ,Yes
 119,Filler,Stradivari is renowned worldwide for making the most incredible violins.,Is his fame limited to Europe? ,No
 120,Filler,The gambler had lost lots of money at this casino.,Did the gambler lose any bets? ,Yes
-121,Filler,We watched setting sun and lingered together in the twilight.,Was the sun rising? ,Yes
+121,Filler,We watched the setting sun and lingered together in the twilight.,Was the sun rising? ,Yes
 122,Filler,Treatment was usually much more difficult and expensive than prevention.,Was prevention usually more costly? ,No
 123,Filler,The public swimming pool was carefully supervised by a lifeguard.,Was the pool open to the public? ,Yes
 124,Filler,The teacher asked the children's parents to volunteer as chaperones.,Did the teacher want the parents involved? ,Yes
@@ -875,7 +875,7 @@ ItemNum,Condition,Sentence,Question,Answer
 154,Filler,A conscientious objector refuses the draft because of religious convictions.,Does the sentence mention a draft? ,Yes
 155,Filler,Wearing shoes that don't fit will give you a blister.,Does the sentence mention socks? ,No
 156,Filler,"Upon seeing the dead body, he pulled away in revulsion.",Was he disgusted by a rotting piece of fruit? ,No
-157,Filler,The spy hoped nobody would recognize her through her disguise.,Was disguised woman a spy? ,Yes
+157,Filler,The spy hoped nobody would recognize her through her disguise.,Was the disguised woman a spy? ,Yes
 158,Filler,The ill airplane passenger was aided by the flight attendant.,Was the attendant helpful?  ,Yes
 159,Filler,The girl was heartbroken and distraught after her first breakup.,Was the girl upset about her grades? ,No
 160,Filler,All the candidates campaigned intensely to secure their party's nomination.,Was the competition intense? ,Yes
@@ -892,7 +892,7 @@ ItemNum,Condition,Sentence,Question,Answer
 171,Filler,The souls of the wicked were condemned to eternal torment.,Did the wicked suffer? ,Yes
 172,Filler,The protests were swiftly followed by a harsh government crackdown.,Were the protestors protected by the government? ,No
 173,Filler,"Because the snake is highly poisonous, it is brightly colored.",Is the poisonous animal a snake? ,Yes
-174,Filler,At the airport they finally parted after exchanging tearful farewells.,Was the water's temperature consistently monitored? ,No
+174,Filler,At the airport they finally parted after exchanging tearful farewells.,Does the sentence mention a train?,No
 175,Filler,The bridesmaids happily vied to catch the bride's wedding bouquet.,Were they trying to catch the garter? ,No
 176,Filler,"To make tea, you should boil water in a kettle.",Should the water boil? ,Yes
 177,Filler,Smoking tobacco greatly increases the risk of developing lung cancer.,Does smoking decrease the risk of cancer? ,No
