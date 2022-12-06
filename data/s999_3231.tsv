@@ -1,0 +1,6 @@
+subj	order	list	item	condition	sentence	question	correct_answer	response
+999	0	1	210	Filler	Ambush, sabotage, and retreat are essential tactics in guerilla warfare.	NA	NA	4	10.292484499979764
+999	1	1	5	Control	The storyteller could turn any incident into an amusing anecdote.	NA	NA	4	5.448820599820465
+999	2	1	257	Filler	To her coffee she added a package of artificial sweetener.	Did she put a cube of sugar in her coffee? 	No	2	12.610753099899739
+999	3	1	20	Control	The teacher interrupted his sentence to make a grammatical correction.	NA	NA	2	10.331635599955916
+999	4	1	69	Filler	The breeding ground was set aside as a wildlife sanctuary.	Was the area protected? 	Yes	2	12.811228899750859

@@ -1,0 +1,4 @@
+subj	order	list	item	condition	sentence	question	correct_answer	response
+888	0	2	23	GoodExp	The reality show censored out the contestants' nudity and profanity.	NA	NA	4	1.3316700998693705
+888	1	2	35	Filler	The convenience store robbery was caught on the security camera.	Was the robbery at a convenience store?  	Yes	1	5.236957799643278
+888	2	2	111	Sem	Marie Curie died of exposure to radiation from this veterinarian.	NA	NA	4	1.4125274000689387

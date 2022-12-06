@@ -1,0 +1,8 @@
+subj	order	list	item	condition	sentence	question	correct_answer	response
+999	0	1	190	Filler	The major led a large company, consisting of five platoons.	NA	NA	4	1.1775173000060022
+999	1	1	175	Filler	The bridesmaids happily vied to catch the bride's wedding bouquet.	NA	NA	4	0.9185000001452863
+999	2	1	90	Filler	The royal guards threw the prisoner into the castle dungeon.	NA	NA	4	0.6391504001803696
+999	3	1	51	Sem	The preacher believed drunkenness was the cause of much irrigation.	NA	NA	4	0.8737356001511216
+999	4	1	20	Control	The teacher interrupted his sentence to make a grammatical correction.	NA	NA	4	1.668054400011897
+999	5	1	78	Sem	Agriculture in this desert would be impossible without this caption.	NA	NA	4	2.0929666999727488
+999	6	1	46	Filler	The entire temple reverberated with the monks' steady rhythmic chanting.	Was the temple eerily silent? 	No	1	5.559953100048006
