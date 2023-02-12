@@ -1,0 +1,481 @@
+subj	order	list	item	condition	sentence	question	correct_answer	response
+444	0	1	4	Filler	The ruling regime did not tolerate any real political opposition.	NA	NA	1	0.7219261000864208
+444	1	1	146	Filler	Stagnant water is the perfect breeding ground for a mosquito.	NA	NA	1	0.8031305000185966
+444	2	1	21	GoodExp	The lighthouse built on the rocky coast prevented many shipwrecks.	NA	NA	1	2.1867569000460207
+444	3	1	127	Filler	The runner ran every day to train for the marathon.	NA	NA	1	0.7910886998288333
+444	4	1	242	Filler	To garner support for the war, the government issued propaganda.	NA	NA	1	0.6449888995848596
+444	5	1	10	Control	Political corruption and economic hardship fueled a growing anti-government sentiment.	NA	NA	1	0.8323059999383986
+444	6	1	173	Filler	Because the snake is highly poisonous, it is brightly colored.	NA	NA	1	0.49366019992157817
+444	7	1	2	Filler	To succeed, you must be more than just a dreamer.	NA	NA	1	0.39758089976385236
+444	8	1	101	Filler	He slipped but luckily grabbed onto the handrail by reflex.	Did he lose his footing? 	Yes	2	3.697544800117612
+444	9	1	87	Filler	Reading regularly is the best way to improve your vocabulary.	NA	NA	1	0.8441201001405716
+444	10	1	225	Filler	Barely able to stand the suspense, she quivered with anticipation.	NA	NA	1	0.7357386997900903
+444	11	1	53	Filler	She left the snuffed out cigarette smoldering in the ashtray.	NA	NA	1	0.6613568998873234
+444	12	1	101	Synt	The museum pass provides five dollars off of each admissions.	Does the pass apply to only one admission? 	No	2	2.9095681998878717
+444	13	1	224	Filler	Her beauty enthralled him and filled his heart with longing.	NA	NA	1	0.6092362003400922
+444	14	1	4	Control	Mediators prevented the dispute from escalating into a violent altercation.	NA	NA	1	0.6486383001320064
+444	15	1	126	SemCrit	After she deceived her mother, she had a guilty consciousness.	NA	NA	2	1.5348292998969555
+444	16	1	152	SemCrit	"He loves me?" she wondered, plucking off a daisy pedal.	NA	NA	1	0.9361748001538217
+444	17	1	239	Filler	The rich old woman left her grandson a large inheritance.	NA	NA	2	0.5817804001271725
+444	18	1	153	SemCrit	Rather than reducing violence, the intervention just caused an escalator.	NA	NA	1	0.4877713001333177
+444	19	1	229	Filler	The surgeon asked the nurse to hand him a scalpel.	NA	NA	2	0.40401479974389076
+444	20	1	90	Synt	He had a short attention span and needed constant stimulations.	NA	NA	1	0.7570235999301076
+444	21	1	47	Sem	The heat felt even worse because of all this catalyst.	NA	NA	1	0.3985954998061061
+444	22	1	110	Filler	To keep healthy, do aerobic exercises like running or jogging.	NA	NA	1	0.6469437000341713
+444	23	1	35	GoodExp	The meaning of the poem was left open to interpretation.	NA	NA	1	1.7979102996177971
+444	24	1	30	GoodExp	A gust of wind blew the newspaper down the street.	Was the street windy? 	Yes	1	1.4381896001286805
+444	25	1	247	Filler	The woman used the ATM to make a cash withdrawal.	NA	NA	1	0.7420712001621723
+444	26	1	31	GoodExp	The reader was drawn in by the article's sensational headline.	NA	NA	1	0.748121100012213
+444	27	1	23	Filler	The artist carved a block of marble into a sculpture.	NA	NA	1	0.6436708001419902
+444	28	1	122	SemCrit	The slogan "change" was a focus of that presidential champagne.	NA	NA	1	0.41601649997755885
+444	29	1	86	Filler	The speedy roadrunner always managed to evade the hungry coyote.	NA	NA	1	0.5137439002282917
+444	30	1	216	Filler	At approximately age twelve, children begin to go through puberty.	NA	NA	1	0.4469349002465606
+444	31	1	106	Filler	The manager worked to cut out waste and increase efficiency.	NA	NA	1	0.47364450013265014
+444	32	1	168	Filler	The detective dusted the glass to reveal the criminal's fingerprint.	NA	NA	1	4.5418155998922884
+444	33	1	38	GoodExp	Malnutrition results when the body does not get enough nutrients.	NA	NA	1	0.5187488999217749
+444	34	1	28	GoodExp	She felt reading someone else's diary was an unforgivable intrusion.	NA	NA	1	1.4902337999083102
+444	35	1	39	Filler	The museum's Egyptian exhibition included many intriguing ceremonial burial artifacts.	Were the artifacts from China? 	No	2	2.1247995998710394
+444	36	1	27	Filler	The female parts of a flower are called the carpel.	NA	NA	1	0.48999520018696785
+444	37	1	248	Filler	Scientists believe an asteroid impact is what killed the dinosaurs.	NA	NA	1	0.7215807000175118
+444	38	1	39	GoodExp	This mission is critical, and completing it successfully is imperative.	NA	NA	1	3.8699270002543926
+444	39	1	128	SemCrit	The Big Dipper may perhaps be the most famous consternation.	NA	NA	1	0.5214623999781907
+444	40	1	107	Synt	The college sent out a newsletter to all its alumnus.	NA	NA	1	5.182775900233537
+444	41	1	69	Filler	The breeding ground was set aside as a wildlife sanctuary.	NA	NA	1	8.150374899618328
+444	42	1	32	Filler	While evacuating, she lost her phone in all the commotion.	NA	NA	1	3.2703680000267923
+444	43	1	33	GoodExp	I was pleased to find my hosts were very welcoming.	NA	NA	1	61.59660129994154
+444	44	1	148	SemCrit	The doomsday preacher urged repentance and warned of an apostrophe.	NA	NA	1	0.7872585002332926
+444	45	1	111	Synt	Marie Curie died of exposure to radiation from this radiums.	Did radiation cause her death? 	Yes	1	1.25585460010916
+444	46	1	275	Filler	She felt that the novel was spoiled by the translation.	NA	NA	1	0.8382129999808967
+444	47	1	14	Filler	A terrifying three-headed dog guarded the entrance to the underworld.	NA	NA	1	2.6738324998877943
+444	48	1	51	Filler	The woman was stubborn and refused to lose an argument.	NA	NA	1	2.1176693998277187
+444	49	1	100	Synt	The flute player nervously prepared an excerpt for an auditions.	NA	NA	1	0.7563024996779859
+444	50	1	47	Filler	When the toy proved hazardous, the victims sued the manufacturer.	NA	NA	1	2.2249601003713906
+444	51	1	85	Filler	You must come to court if you have been summoned.	NA	NA	1	2.2542086001485586
+444	52	1	114	Filler	She loved bread and always dreamed of opening a bakery.	NA	NA	1	0.797914800234139
+444	53	1	191	Filler	The French doors opened out onto a large shaded terrace.	NA	NA	2	0.3384629995562136
+444	54	1	14	GoodExp	The evil villain secretly concocted a diabolical and convoluted scheme.	NA	NA	1	0.44910599989816546
+444	55	1	174	Filler	At the airport they finally parted after exchanging tearful farewells.	NA	NA	1	0.42210649978369474
+444	56	1	84	Synt	She lunged towards his neck, going right for the jugulars.	NA	NA	1	0.4173193001188338
+444	57	1	37	Control	Disgusted, she pulled away from his touch with a shudder.	Was she grossed out?   	Yes	1	1.3595799002796412
+444	58	1	119	Filler	Stradivari is renowned worldwide for making the most incredible violins.	Is his fame limited to Europe? 	No	2	2.3237017998471856
+444	59	1	17	GoodExp	The earth shook and buildings crumbled in the massive earthquake.	NA	NA	1	0.8435718002729118
+444	60	1	254	Filler	The main ingredient in a Caesar salad is Romaine lettuce.	NA	NA	1	4.200123100075871
+444	61	1	27	Control	Statisticians emphasize that causation is not implied by a correlation.	NA	NA	1	0.6930841999128461
+444	62	1	61	Sem	Apply this eyeliner and brush your lashes with this audition.	NA	NA	1	0.6004388001747429
+444	63	1	186	Filler	Because of the bonfire incident, all the campers were punished.	NA	NA	1	0.5963657000102103
+444	64	1	49	Filler	Diplomats hoped the dispute would come to a peaceful resolution.	NA	NA	1	0.9039598000235856
+444	65	1	32	Control	A new gravitational theory was proposed by an eminent physicist.	NA	NA	1	3.8875818997621536
+444	66	1	37	Filler	The thoroughbred racing horse was ridden by an experienced jockey.	NA	NA	1	0.5405979002825916
+444	67	1	222	Filler	The villain's struggling captive inadvertently triggered the final launch countdown.	NA	NA	1	0.5058117001317441
+444	68	1	158	SemCrit	Blizzards are deadly hazards for explorers on an arctic expectation.	Can the weather be dangerous? 	Yes	1	1.31179070007056
+444	69	1	46	Sem	Each winter evening, the family gathers around a warm alteration.	NA	NA	1	0.45071120001375675
+444	70	1	155	Filler	Wearing shoes that don't fit will give you a blister.	Does the sentence mention socks? 	No	2	1.6903627999126911
+444	71	1	131	SemCrit	A soldier fighting for the highest bidder is a missionary.	NA	NA	1	0.9266588999889791
+444	72	1	9	GoodExp	The chimpanzee's vicious attack left the woman's face completely eviscerated.	Were the monkeys violent? 	Yes	1	1.2530933995731175
+444	73	1	104	Synt	Edith Piaf's extraordinary singing career was begun in a cabarets.	NA	NA	2	1.0022861999459565
+444	74	1	113	Filler	The baron pouted, feeling the insult had wounded his dignity.	NA	NA	1	0.5082078003324568
+444	75	1	129	Filler	Many women juggle a career, caring for children, and housekeeping.	NA	NA	1	8.729087099898607
+444	76	1	201	Filler	As the population ages, more adults find themselves becoming caregivers.	NA	NA	1	1.1948000001721084
+444	77	1	7	GoodExp	Tourists gazed at the temple's magnificent rows of marble columns.	NA	NA	1	4.025070699863136
+444	78	1	83	Synt	The circus featured an acrobat, a clown, and a jugglers.	NA	NA	1	4.591010699979961
+444	79	1	180	Filler	He wouldn't come to the bargaining table without significant leverage.	NA	NA	1	12.860898000188172
+444	80	1	266	Filler	Studies have shown that the most addictive substance is nicotine.	NA	NA	1	0.5785103999078274
+444	81	1	217	Filler	The legislators hoped to induce a more equal income distribution.	NA	NA	2	4.090454199817032
+444	82	1	14	Control	After hours of playing, the guitarist's fingertips developed a callus.	NA	NA	1	9.493735699914396
+444	83	1	34	GoodExp	The self-absorbed man considered himself a profound thinker and philosopher.	NA	NA	1	0.6789271999150515
+444	84	1	44	Sem	The pseudoscience of inferring personality from skull measurements is saffron.	NA	NA	1	7.356576399877667
+444	85	1	41	Filler	Only upperclassmen could join, and he was still a sophomore.	NA	NA	1	9.429164499975741
+444	86	1	68	Sem	He denounced the novel's film adaptation as a complete diploma.	NA	NA	1	0.7690946999937296
+444	87	1	105	Filler	The air smelled of pine and the birds were chirping.	NA	NA	1	0.3124262997880578
+444	88	1	100	Filler	After a risky surgery, the man unfortunately died of complications.	NA	NA	1	11.320041900034994
+444	89	1	135	SemCrit	The crowded urban neighborhood had a very high population destiny.	NA	NA	1	2.095541500020772
+444	90	1	99	Filler	A judge or a priest can perform an official marriage.	NA	NA	1	0.8185578002594411
+444	91	1	74	Sem	The powerful cheetah sprinted in pursuit of a baby addition.	NA	NA	2	0.8208165001124144
+444	92	1	106	Synt	The coach scolded the player for having a bad attitudes.	NA	NA	1	0.5807666000910103
+444	93	1	125	Filler	As death approached, the patient's breathing became shallow and irregular.	Does the sentence mention a patient?	Yes	1	1.4331008000299335
+444	94	1	257	Filler	To her coffee she added a package of artificial sweetener.	NA	NA	1	0.6023436998948455
+444	95	1	92	Synt	Incensed at the captain, the crew staged a full-scale mutinies.	NA	NA	1	0.6963333999738097
+444	96	1	137	SemCrit	She didn't answer the phone, so I left a massage.	NA	NA	1	12.11325309984386
+444	97	1	124	Filler	The teacher asked the children's parents to volunteer as chaperones.	NA	NA	1	200.05547469994053
+444	98	1	161	Filler	The guests dipped strawberries and bananas into the chocolate fondue.	NA	NA	1	7.131716500036418
+444	99	1	103	Filler	The old hermit lived all alone in an isolated cottage.	NA	NA	2	0.45742239989340305
+444	100	1	206	Filler	He became so suspicious that he hired a private investigator.	NA	NA	1	1.9577712998725474
+444	101	1	152	Filler	Women in the workplace often faced physical and verbal harassment.	NA	NA	2	0.38503240002319217
+444	102	1	159	SemCrit	Claiming two wrongs make a right is a common facility.	NA	NA	1	2.567333099897951
+444	103	1	132	SemCrit	The devout Christian girl travelled to India as a mercenary.	NA	NA	1	0.42698360001668334
+444	104	1	76	Filler	When taking medication, always be careful to follow the prescription.	NA	NA	1	4.075892500113696
+444	105	1	25	GoodExp	When the car exploded, the burning plastic emitted toxic fumes.	NA	NA	1	7.175902199931443
+444	106	1	7	Filler	The terrorists threatened to kill all of the frightened hostages.	NA	NA	1	6.817747300025076
+444	107	1	226	Filler	Gin and vermouth are the main ingredients in a martini.	Is wine the cocktail's main ingredient? 	No	2	1.8477027998305857
+444	108	1	22	GoodExp	She woke up crying and shaking after a horrible nightmare.	NA	NA	1	0.40498579991981387
+444	109	1	278	Filler	Leftovers keep longer if you store them in the refrigerator.	NA	NA	2	1.6579303997568786
+444	110	1	65	Sem	Senator McCarthy accused the screenwriter of being a Communist fallacy.	NA	NA	1	1.6319045997224748
+444	111	1	140	SemCrit	The ambassador who negotiated the deal was a skilled diploma.	NA	NA	1	0.41578759998083115
+444	112	1	95	Synt	Like the IRS and FBI, CIA is another three-letter abbreviations.	NA	NA	1	7.496063800062984
+444	113	1	46	Filler	The entire temple reverberated with the monks' steady rhythmic chanting.	NA	NA	1	0.9940476999618113
+444	114	1	3	Filler	Repulsed by the city's defenses, they resorted to a siege.	NA	NA	1	13.825983100105077
+444	115	1	141	SemCrit	The retiree found he soon tired of all this lesion.	NA	NA	1	7.475263400003314
+444	116	1	57	Filler	She took a ballroom dancing class to learn the tango.	NA	NA	1	4.6875427002087235
+444	117	1	82	Synt	Two important fluids in the body are blood and lymphs.	NA	NA	1	0.602796099614352
+444	118	1	112	Synt	No light escapes the black hole once within this radii.	NA	NA	1	7.543350999709219
+444	119	1	20	Filler	You should write all your appointments down in your calendar.	NA	NA	1	0.3283191001974046
+444	120	1	163	Filler	The teacher's experience as a counselor gave her valuable insight.	NA	NA	1	17.10526840016246
+444	121	1	119	Synt	He soon backed away, sensing he had crossed a boundaries.	Did he retreat? 	Yes	1	1.1218952997587621
+444	122	1	67	Sem	The castle wall was adorned with a beautiful woven abbreviation.	NA	NA	2	7.8111096997745335
+444	123	1	11	GoodExp	The value of practice and experience should never be underestimated.	Is practice worthwhile? 	Yes	1	1.1563103999942541
+444	124	1	91	Synt	She was vaccinated so her body would developed an immunities.	NA	NA	1	1.4569998998194933
+444	125	1	91	Filler	The company's juice was always fresh squeezed, never from concentrate.	NA	NA	1	13.73794800043106
+444	126	1	280	Filler	The mother rocked the baby to sleep in a cradle.	Was the mother holding the baby? 	No	2	3.8578423000872135
+444	127	1	8	Control	The upscale apartment was complete with all these modern amenities.	NA	NA	1	0.5110871996730566
+444	128	1	70	Filler	The reported bribery was just the tip of the iceberg.	NA	NA	1	2.7390243001282215
+444	129	1	37	GoodExp	Lupus is a disease that is very difficult to diagnose.	Does the sentence mention an illness? 	Yes	1	2.0176081000827253
+444	130	1	176	Filler	To make tea, you should boil water in a kettle.	NA	NA	1	12.34929780010134
+444	131	1	116	Synt	The detectives discovered the professor was poisoned with this arsenics.	Was the victim a professor? 	Yes	1	1.4748766999691725
+444	132	1	143	Filler	A paper airplane flew across the classroom into the trashcan.	NA	NA	2	0.950180800165981
+444	133	1	245	Filler	Pickpockets and scam artists can easily swindle a naive traveler.	NA	NA	1	8.43780509987846
+444	134	1	137	Filler	The eagerly awaited package was delivered by a cheerful postman.	NA	NA	1	0.8613575999625027
+444	135	1	260	Filler	Public accountants must pass a rigorous exam to become certified.	NA	NA	1	5.6056368998251855
+444	136	1	165	Filler	She believed herself in love, but it was just infatuation.	NA	NA	1	1.054570300038904
+444	137	1	221	Filler	GPS navigation relies on receiving radio signals from orbiting satellites.	NA	NA	1	0.5528072002343833
+444	138	1	53	Sem	After the Holocaust, German history could never escape this antidote.	NA	NA	1	0.6461591999977827
+444	139	1	121	Filler	We watched the setting sun and lingered together in the twilight.	NA	NA	1	0.7537793000228703
+444	140	1	49	Sem	The scientist designed an experiment to test a controversial gazette.	NA	NA	1	6.121732600033283
+444	141	1	170	Filler	Malls often offer many dining options in the food court.	Is it often difficult to find a place to eat in the mall? 	No	2	2.5959462001919746
+444	142	1	164	Filler	The missionary hoped that many local people would be converted.	NA	NA	1	0.5349047002382576
+444	143	1	199	Filler	I found her fascination with the deaths just plain morbid.	NA	NA	2	13.405905299820006
+444	144	1	139	Filler	The hotel bathroom had little bottles of shampoo and conditioner.	NA	NA	1	10.245471500325948
+444	145	1	81	Synt	The lecherous satyr chased after a beautiful lithe wood nymphs.	NA	NA	1	1.8545686001889408
+444	146	1	273	Filler	Hot ash and lava spewed from the violently erupting volcano.	Does the sentence mention lava?	Yes	1	2.9698093999177217
+444	147	1	123	Filler	The public swimming pool was carefully supervised by a lifeguard.	NA	NA	1	1.5427537998184562
+444	148	1	7	Control	Clownfish have evolved invulnerability to the poison tentacles of anemones.	Are the fish specially adapted? 	Yes	1	1.5346584003418684
+444	149	1	86	Synt	The child made a caterpillar from an old egg cartons.	NA	NA	1	3.8223358001559973
+444	150	1	108	Filler	Gossip about the celebrity scandal was paraded through the tabloids.	NA	NA	1	43.80100650014356
+444	151	1	108	Synt	Soda cans and tin foil are both made of aluminums.	NA	NA	2	0.3590271999128163
+444	152	1	48	Sem	The sermon denounced pride and extolled the virtue of alumni.	NA	NA	1	0.4469788996502757
+444	153	1	13	GoodExp	He was in charge of sending out the wedding invitations.	NA	NA	1	2.200284299906343
+444	154	1	28	Control	The king knelt to be crowned at an official coronation.	NA	NA	2	3.99989159964025
+444	155	1	21	Control	An intense tension headache can be mistaken for a migraine.	NA	NA	1	5.234898899681866
+444	156	1	233	Filler	The skilled surgeon sliced through the flesh with unerring precision.	NA	NA	1	9.541113200131804
+444	157	1	90	Filler	The royal guards threw the prisoner into the castle dungeon.	NA	NA	2	12.28067129990086
+444	158	1	103	Synt	Old car engines mixed fuel and air in a carburetors.	NA	NA	1	1.105214400216937
+444	159	1	33	Control	Blinking causes a momentary pupil contraction followed by a dilation.	NA	NA	2	7.823876400012523
+444	160	1	68	Filler	The most popular casino card games are poker and blackjack.	Does the sentence mention slots? 	No	2	1.4476958001032472
+444	161	1	24	Control	The child wore a glittery crown with a pink rhinestone.	NA	NA	1	6.881331500131637
+444	162	1	107	Filler	The nonconformist despised fashion and never cared about his reputation.	NA	NA	1	2.5602845000103116
+444	163	1	24	Filler	The king's court was filled with scandal and political intrigue.	NA	NA	1	0.35589150013402104
+444	164	1	40	GoodExp	The audio editing software was available as a free download.	NA	NA	1	7.164555000141263
+444	165	1	36	Control	The vicious cyclone tragically caused many deaths and much destruction.	NA	NA	1	4.5908569996245205
+444	166	1	148	Filler	He was frightened by the woman's sudden anger and hostility.	NA	NA	1	2.5620669000782073
+444	167	1	177	Filler	Smoking tobacco greatly increases the risk of developing lung cancer.	NA	NA	2	10.687234399840236
+444	168	1	11	Control	Up on the tree branch perched a bright red cardinal.	NA	NA	1	2.692377499770373
+444	169	1	151	Filler	The sky lit up with sparkling explosions and shimmering sparks.	NA	NA	1	3.1418051002547145
+444	170	1	39	Control	Rupert Murdoch is the owner of a vast media empire.	NA	NA	1	3.6428020000457764
+444	171	1	88	Filler	They started a viral marketing campaign to increase their publicity.	NA	NA	1	24.255116099957377
+444	172	1	267	Filler	After seeing my opponent's trophy room, I felt rather intimidated.	Was my opponent accomplished? 	Yes	1	1.8239667997695506
+444	173	1	18	GoodExp	The sociologist investigated how status interacted with ethnicity and gender.	NA	NA	2	2.5375903001986444
+444	174	1	136	Filler	The insensitive paparazzi turned the singer's suffering into a spectacle.	NA	NA	2	1.6938020000234246
+444	175	1	157	Filler	The spy hoped nobody would recognize her through her disguise.	NA	NA	1	0.7231156001798809
+444	176	1	150	SemCrit	Two common semi-aquatic rodents are a beaver and a musket.	NA	NA	2	7.436137500219047
+444	177	1	1	GoodExp	The mysterious murders crippled the community with fear and paranoia.	NA	NA	1	0.4083643998019397
+444	178	1	118	Synt	Romeo longingly admired Juliet as she stood on this balconies.	NA	NA	1	0.35733089968562126
+444	179	1	149	SemCrit	The soldier rammed gunpowder down the barrel of a muskrat.	NA	NA	1	0.42959920037537813
+444	180	1	238	Filler	It is cliche to say teenagers think they are invincible.	NA	NA	1	6.3858929998241365
+444	181	1	146	SemCrit	That grenade explodes stronger than a stick of this dynasty.	NA	NA	1	5.945879700127989
+444	182	1	33	Filler	Since blogging's inception, people have predicted the death of journalism.	NA	NA	1	3.876761400140822
+444	183	1	31	Filler	A shimmering pearl lay on the shell of the oyster.	NA	NA	1	4.291664199903607
+444	184	1	244	Filler	Years after the murder, the case remains shrouded in mystery.	NA	NA	2	3.046355899889022
+444	185	1	66	Filler	FDR delivered many "fireside chats," which were informal radio broadcasts.	NA	NA	2	2.4759227000176907
+444	186	1	17	Filler	Regulating interstate trade is a job of the federal government.	NA	NA	1	1.813865500036627
+444	187	1	157	SemCrit	Considering my previous experiences, I had a rather low expedition.	NA	NA	2	1.4044261001981795
+444	188	1	279	Filler	Although the rules are flexible, the deadlines must be met.	NA	NA	1	7.809788899961859
+444	189	1	253	Filler	The imperialistic conquerors viewed the local people as lawless savages.	NA	NA	1	2.7713874001055956
+444	190	1	175	Filler	The bridesmaids happily vied to catch the bride's wedding bouquet.	NA	NA	1	0.4422866995446384
+444	191	1	80	Filler	During industrialization, many moved to cities to work in factories.	Were the factories located in cities? 	Yes	1	3.343644400127232
+444	192	1	120	Synt	Capture or kill the wanted criminal to collect a bounties.	NA	NA	1	7.015543600078672
+444	193	1	187	Filler	He could never get enough sleep because of his insomnia.	NA	NA	1	0.9435047996230423
+444	194	1	16	Control	The dentist congratulated me on not having a single cavity.	NA	NA	2	0.3644967000000179
+444	195	1	45	Filler	Alcatraz Island was famous for housing a high security penitentiary.	NA	NA	2	3.148512199986726
+444	196	1	16	GoodExp	The man shaved away his stubble with a disposable razor.	Was the man shaving? 	Yes	1	1.1360704996623099
+444	197	1	202	Filler	Friends gathered to honor the memory of the dearly departed.	NA	NA	2	9.964429799932986
+444	198	1	243	Filler	He hoped his research would lead to many practical applications.	Was his invention ready for consumers? 	No	2	4.486296100076288
+444	199	1	34	Control	The bleach is too concentrated and requires a one-in-five dilution.	NA	NA	1	0.4235455999150872
+444	200	1	64	Filler	Movie theaters usually give discounts for children, students, and seniors.	NA	NA	1	0.8944945000112057
+444	201	1	22	Filler	The magnificent roaring sea made him feel small and insignificant.	NA	NA	1	3.45146800018847
+444	202	1	19	GoodExp	Because the dictator was feared, no protests ever took place.	NA	NA	1	1.7580523998476565
+444	203	1	67	Filler	Even after being caught, the cold-blooded killer showed no remorse.	NA	NA	1	3.7891305997036397
+444	204	1	21	Filler	The flower vase shattered when it fell off the shelf.	NA	NA	1	3.9190390002913773
+444	205	1	43	Filler	The Pantheon in Rome is a marvel of ancient architecture.	NA	NA	2	2.906900499947369
+444	206	1	184	Filler	Many could not find bread because of the flour shortage.	NA	NA	1	0.28447659965604544
+444	207	1	140	Filler	Many people drink coffee for a daily dose of caffeine.	NA	NA	2	3.83145899977535
+444	208	1	117	Synt	The cheapest lunchmeat at this grocery store is this baloneys.	NA	NA	1	6.211722100153565
+444	209	1	141	Filler	Surrounded by impassable mountains, the indigenous community was completely isolated.	NA	NA	1	5.633958499878645
+444	210	1	210	Filler	Ambush, sabotage, and retreat are essential tactics in guerilla warfare.	NA	NA	2	9.867155800107867
+444	211	1	131	Filler	Witnessing war, rape, or physical abuse can be extremely traumatic.	NA	NA	1	2.594126799609512
+444	212	1	117	Filler	The flood victims were airlifted to safety by rescue helicopters.	NA	NA	2	6.877088500186801
+444	213	1	35	Control	The whining alarm shut off, finally silencing this annoying distraction.	NA	NA	1	3.8186977999284863
+444	214	1	142	Filler	Olive oil and balsamic vinegar make a great salad dressing.	NA	NA	1	2.29131789971143
+444	215	1	110	Synt	The printer needed more paper and a new ink cartridges.	NA	NA	2	16.931223699823022
+444	216	1	94	Synt	The goddess refused to be bested by a mere mortals.	NA	NA	1	13.092755800113082
+444	217	1	102	Filler	Avocados, onions, tomatoes, lime, and cilantro make the perfect guacamole.	NA	NA	1	9.805714800022542
+444	218	1	70	Sem	The rice was spiced with a pinch of that message.	NA	NA	1	4.237236300017685
+444	219	1	26	Filler	Every day at lunch she ordered a hamburger or cheeseburger.	Does the sentence mention food? 	Yes	1	1.4652073998004198
+444	220	1	150	Filler	The hymn was accompanied by the church's old pipe organ.	NA	NA	1	0.23777089966461062
+444	221	1	58	Sem	"It's alive!" he cackled as he animated this monster bounty.	NA	NA	1	0.3597778002731502
+444	222	1	149	Filler	At the movie's climax, the hero finally battles his nemesis.	Is the climactic scene a fight? 	Yes	1	2.4000253002159297
+444	223	1	228	Filler	If it is too sunny, you should close the curtains.	NA	NA	1	5.9813493001274765
+444	224	1	240	Filler	She knew the deadline was approaching, but was still procrastinating.	NA	NA	1	1.3670133999548852
+444	225	1	123	SemCrit	A syllogism is a common form of a deductive inferno.	NA	NA	1	14.923575300257653
+444	226	1	29	GoodExp	The poachers want to sell the tusks of these elephants.	NA	NA	1	23.817099899984896
+444	227	1	26	Control	His office is down at the end of this corridor.	NA	NA	1	0.4396102000027895
+444	228	1	11	Filler	The report's aims were briefly outlined in the opening paragraph.	NA	NA	1	5.129305999726057
+444	229	1	144	Filler	She worked at the nearby grocery store as a cashier.	NA	NA	2	3.680155800189823
+444	230	1	271	Filler	The cause of the helicopter crash was a mechanical malfunction.	NA	NA	1	0.36012359987944365
+444	231	1	220	Filler	Despite my occasional jealousy, I never wanted our roles reversed.	NA	NA	1	12.722424899693578
+444	232	1	215	Filler	Although the auditorium is modern, it has quite poor acoustics.	NA	NA	1	6.236336499918252
+444	233	1	38	Control	One window on the dilapidated house was missing a shutter.	NA	NA	1	3.524850099813193
+444	234	1	2	Control	The woman brought her sick pet dog to a veterinarian.	NA	NA	2	4.686207599937916
+444	235	1	50	Sem	Use Pythagoras' theorem to find the length of a cavalry.	NA	NA	1	7.758413000032306
+444	236	1	1	Filler	The district attorney did not have enough evidence to prosecute.	NA	NA	2	0.3547018999233842
+444	237	1	19	Control	Her grandmother's pennies inspired her to start a coin collection.	Does the sentence mention a grandmother? 	Yes	1	1.3803439997136593
+444	238	1	128	Filler	The judge ordered the audience to stop disrupting the proceedings.	NA	NA	2	12.313933399971575
+444	239	1	97	Filler	A pessimistic prediction can quite often become a self-fulfilling prophecy.	NA	NA	1	2.142441200092435
+444	240	1	166	Filler	Children should never use lighters or fireworks without adult supervision.	NA	NA	1	1.6931358999572694
+444	241	1	259	Filler	Maintaining a healthy weight requires a good diet and exercise.	NA	NA	2	1.0027634999714792
+444	242	1	19	Filler	The old abandoned house was filled with dust and cobwebs.	NA	NA	1	0.7340461001731455
+444	243	1	204	Filler	The student raced to finish the paper before the deadline.	NA	NA	1	4.612040500156581
+444	244	1	92	Filler	After the important deal fell through, the company went bankrupt.	NA	NA	1	1.2943005003035069
+444	245	1	79	Sem	The poor stayed poor because of this limited upward spinster.	NA	NA	1	0.43887339998036623
+444	246	1	203	Filler	A society ruled or dominated by women is a matriarchy.	NA	NA	2	3.5132678002119064
+444	247	1	54	Filler	The bodyguard chased after the fan at the rock concert.	NA	NA	2	1.6448032995685935
+444	248	1	89	Synt	Candidates must be citizens, but that is the only stipulations.	NA	NA	1	0.35807000007480383
+444	249	1	82	Filler	The soldier had been a waitress before she was recruited.	NA	NA	2	10.229053900111467
+444	250	1	18	Control	The monk sat quietly and fell into a deep meditation.	NA	NA	2	0.2285587997175753
+444	251	1	60	Sem	The afternoon showing cost less because it was a sentiment.	Was the show less expensive?  	Yes	1	1.8792980001308024
+444	252	1	29	Control	The moth attracted a mate by releasing a potent pheromone.	NA	NA	2	3.4625975000672042
+444	253	1	6	Filler	The bird warbled a cheerful tune ending in a trill.	NA	NA	1	3.2294389000162482
+444	254	1	12	Control	There is a beanbag toss game booth at this carnival.	NA	NA	2	0.4653571001254022
+444	255	1	34	Filler	Police arrested the drunk driver and revoked his driver's license.	NA	NA	2	2.242400699760765
+444	256	1	235	Filler	The practice of yoga can make your body more flexible.	NA	NA	2	7.0749766998924315
+444	257	1	50	Filler	Growing vegetables for the farmer's market can be very profitable.	Does the sentence mention grocery stores? 	No	2	1.9722343003377318
+444	258	1	18	Filler	You can make positive change if you take the initiative.	NA	NA	2	16.176210700068623
+444	259	1	40	Filler	Their refusal to hire a black waitress was blatant racism.	NA	NA	1	3.2180315000005066
+444	260	1	63	Filler	Without painkillers, the agony from her injury was utterly unbearable.	NA	NA	2	4.216369700152427
+444	261	1	236	Filler	The public drinking water supply was tested regularly for contaminants.	NA	NA	1	1.958621199708432
+444	262	1	230	Filler	Despite their creative freedoms, film directors ultimately answer to producers.	NA	NA	2	9.357263000216335
+444	263	1	10	Filler	The old farmer plowed the corn field with a tractor.	NA	NA	2	2.829080699943006
+444	264	1	252	Filler	In comparison to her uptight brother, she was quite mellow.	NA	NA	2	11.87605750001967
+444	265	1	156	SemCrit	To protect herself from the sun, she carried a parasite.	NA	NA	1	1.5729819000698626
+444	266	1	4	GoodExp	He was rude and blunt, but he was never dishonest.	NA	NA	1	2.0522675001993775
+444	267	1	74	Filler	Of the politicians present, the governor was the most prominent.	NA	NA	2	9.53120269998908
+444	268	1	64	Sem	The hostess greeted her guests with a light social escalator.	NA	NA	2	7.278100700117648
+444	269	1	63	Sem	Feudal lords lived off the labor of an oppressed travesty.	Does the sentence mention medieval clergy? 	No	2	1.6343105002306402
+444	270	1	147	Filler	The furniture designer aspired to make objects beautiful and functional.	Was the designer making clothing? 	No	1	3.505393899977207
+444	271	1	145	Filler	The stock exchange was host to millions of financial transactions.	NA	NA	1	13.101613800041378
+444	272	1	145	SemCrit	Yuan emperors were Mongolian because Kublai Khan founded this dynamite.	NA	NA	2	3.6741859996691346
+444	273	1	162	Filler	Spring rolls filled with vegetables are a great healthy appetizer.	NA	NA	1	7.575827400200069
+444	274	1	72	Filler	The skilled adventurer knew how to survive in the wilderness.	NA	NA	2	0.4027656000107527
+444	275	1	102	Synt	"Never stay out past midnight," was his mother's strict admonitions.	NA	NA	1	15.171673499979079
+444	276	1	138	SemCrit	My back was so tense I really needed a message.	NA	NA	2	3.3455799999646842
+444	277	1	20	Control	The teacher interrupted his sentence to make a grammatical correction.	NA	NA	2	5.546483400277793
+444	278	1	143	SemCrit	The low intensity workout compensated by having a long adoration.	Was the exercise intense? 	No	1	2.351771699730307
+444	279	1	80	Sem	Champagne was once reserved exclusively for the royalty and pheromone.	NA	NA	1	4.808744399808347
+444	280	1	112	Filler	You should never drive a car while under the influence.	NA	NA	2	15.26800199970603
+444	281	1	15	GoodExp	The religious mystic entered a euphoric state of spiritual ecstasy.	NA	NA	2	0.9088797997683287
+444	282	1	130	Filler	The athlete could not play because he tore a ligament.	Was the athlete injured? 	Yes	1	1.319573299959302
+444	283	1	154	Filler	A conscientious objector refuses the draft because of religious convictions.	NA	NA	2	9.978488300461322
+444	284	1	13	Control	The reagents reacted faster in the presence of a catalyst.	NA	NA	2	2.5780382999219
+444	285	1	192	Filler	A baroness gave some salad leaves to her pet bunny.	NA	NA	1	4.134290600195527
+444	286	1	158	Filler	The ill airplane passenger was aided by the flight attendant.	NA	NA	1	3.938897400163114
+444	287	1	156	Filler	Upon seeing the dead body, he pulled away in revulsion.	NA	NA	2	3.1528161000460386
+444	288	1	250	Filler	College students often must spend much money on their textbooks.	NA	NA	2	5.754139800090343
+444	289	1	138	Filler	The defiant young woman refused to become just another statistic.	NA	NA	1	0.2743355999700725
+444	290	1	256	Filler	As the child stargazed, he dreamed of becoming an astronaut.	Did the child want to be a pilot? 	No	2	3.389044700190425
+444	291	1	56	Sem	Medics cleaned and bandaged the wound to prevent a sapphire.	NA	NA	1	1.0629471000283957
+444	292	1	36	Filler	The princess lived in a castle guarded by a dragon.	Did she live in a dragon cave? 	No	2	2.714636300224811
+444	293	1	214	Filler	Although hedgehogs are nocturnal, they sometimes enjoy rays of sunshine.	Do the animals generally prefer night? 	Yes	1	3.1665209997445345
+444	294	1	87	Synt	Handling the rough wooden plank gave the woman a splinters.	Had the plank been sanded down? 	No	2	2.482841100078076
+444	295	1	178	Filler	She was too young to be in a serious relationship.	NA	NA	1	4.025457700248808
+444	296	1	3	Control	The vintage wedding dress was big and required an alteration.	NA	NA	2	11.35662529990077
+444	297	1	57	Sem	The three kings bore gifts of gold, myrrh, and anemones.	NA	NA	1	0.4752358002588153
+444	298	1	60	Filler	Because shampoo is a cosmetic, it is subject to regulation.	NA	NA	1	3.2859296002425253
+444	299	1	231	Filler	Technology raises questions that are not just practical but ethical.	NA	NA	2	5.088770299684256
+444	300	1	98	Synt	The sailors feared the harsh discipline of this ship captains.	Does the sentence mention sailors?	Yes	1	1.7704230998642743
+444	301	1	99	Synt	The teacher taught that subtraction was the opposite of additions.	NA	NA	2	3.283336500171572
+444	302	1	15	Filler	When my microwave died, I searched online for a replacement.	NA	NA	2	6.636639200150967
+444	303	1	56	Filler	Many young sports players look up to their team captains.	NA	NA	2	0.4211789001710713
+444	304	1	25	Control	The cause of death must be determined by a coroner.	NA	NA	2	9.34794590016827
+444	305	1	134	SemCrit	Once Faust signed, he was doomed to this eternal dalmatian.	NA	NA	1	1.4858246999792755
+444	306	1	142	SemCrit	His personality was dramatically altered after acquiring this brain leisure.	Was the alteration noticeable? 	Yes	1	3.1717711999081075
+444	307	1	20	GoodExp	The caterpillar enters its cocoon and undergoes an amazing metamorphosis.	NA	NA	1	2.761313599999994
+444	308	1	209	Filler	The crying infant was calmed by its mother's soothing lullaby.	NA	NA	1	1.38858970021829
+444	309	1	269	Filler	The scribe got tired after many hours of copying manuscripts.	NA	NA	2	6.6202189000323415
+444	310	1	241	Filler	When the dog heard the dinner bell, it started drooling.	NA	NA	1	0.20711500011384487
+444	311	1	94	Filler	The octopus is believed to be the most intelligent invertebrate.	Is the squid thought to be smarter than the octopus? 	No	2	3.508097500074655
+444	312	1	45	Sem	The casket was carried to the cemetery in a dilution.	NA	NA	1	11.542716399766505
+444	313	1	6	GoodExp	Right-to-die activists believe it should be legal to perform euthanasia.	NA	NA	2	10.8387127998285
+444	314	1	144	SemCrit	He idolized her, and her self-esteem benefited from this duration.	NA	NA	2	7.280856799799949
+444	315	1	5	Filler	He could no longer remember anything because of his amnesia.	NA	NA	1	0.200745299924165
+444	316	1	261	Filler	This common but delicious hearty vegetable soup is called minestrone.	NA	NA	1	0.32669480005279183
+444	317	1	268	Filler	Facebook has succeeded MySpace as the place for social networking.	NA	NA	1	0.3744665998965502
+444	318	1	88	Synt	Cats were the only company for this lonely old spinsters.	NA	NA	2	14.413592899683863
+444	319	1	276	Filler	He drank some alcohol to try to lessen his inhibitions.	NA	NA	2	2.2742308997549117
+444	320	1	22	Control	Harvesting crops is often the job of a seasonal migrant.	NA	NA	1	0.33244300028309226
+444	321	1	59	Filler	The math teacher wrote the problems up on the blackboard.	NA	NA	1	2.381142500322312
+444	322	1	223	Filler	Many companies and corporations will match their employees' charitable donations.	NA	NA	2	5.627434900030494
+444	323	1	96	Synt	The thesaurus shows that a synonym for drunkenness is inebriations.	NA	NA	2	0.4903472000733018
+444	324	1	8	Filler	She always made a list before going shopping for groceries.	NA	NA	2	7.732959399931133
+444	325	1	95	Filler	She wanted a green lawn and a white picket fence.	NA	NA	1	9.230204199906439
+444	326	1	97	Synt	A lolcat is a cat photograph with a humorous ungrammatical captions.	Does the sentence mention a photo? 	Yes	1	1.9360823999159038
+444	327	1	30	Filler	Xenophobia is an unreasonable fear or hatred of all foreigners.	NA	NA	2	1.0867268997244537
+444	328	1	66	Sem	The computer could read text aloud using a speech baloney.	NA	NA	1	6.9363640001975
+444	329	1	75	Filler	The gifted rapper was famous for his complex multisyllabic rhymes.	NA	NA	2	2.5092245996929705
+444	330	1	52	Sem	The artist achieved eternal fame despite not seeking this dilation.	Was the artist's fame enduring? 	Yes	1	1.6308689001016319
+444	331	1	109	Filler	The technological boom progressed more quickly than anyone could anticipate.	NA	NA	1	12.109837899915874
+444	332	1	27	GoodExp	The tourist sent each of her friends a nice postcard.	Did she send postcards to her family? 	No	2	1.6774694002233446
+444	333	1	263	Filler	Both political parties accused each other of obstruction and partisanship.	NA	NA	1	4.425009500235319
+444	334	1	2	GoodExp	Whenever he reminisces about his beloved he starts waxing poetic.	NA	NA	1	5.948955599684268
+444	335	1	52	Filler	She searched under the couch cushions for the television remote.	NA	NA	1	5.6451682997867465
+444	336	1	93	Synt	The mason built his own house of brick and mortars.	NA	NA	2	12.567157400306314
+444	337	1	59	Sem	This docile herbivorous aquatic mammal is known as a stimulation.	NA	NA	2	0.460171100217849
+444	338	1	272	Filler	A nobleman traveled to distant lands in search of adventure.	NA	NA	2	1.8091335999779403
+444	339	1	160	SemCrit	Don't call it a prison; call it a correctional fallacy.	NA	NA	2	12.50307650025934
+444	340	1	23	GoodExp	The reality show censored out the contestants' nudity and profanity.	Were the contestants sometimes naked? 	Yes	1	0.191606099717319
+444	341	1	78	Filler	The cowboy fired off all six rounds in his revolver.	NA	NA	2	0.8022668999619782
+444	342	1	6	Control	She saved him from the poison by administering an antidote.	NA	NA	2	2.9399143997579813
+444	343	1	78	Sem	Agriculture in this desert would be impossible without this caption.	NA	NA	1	2.0974968997761607
+444	344	1	251	Filler	Although the water was boiling, the pasta was not soft.	NA	NA	2	0.6264185002073646
+444	345	1	44	Filler	The persistent child worked for hours on the jigsaw puzzle.	NA	NA	2	5.776720499619842
+444	346	1	198	Filler	Law enforcement officials cannot search your home without a warrant.	NA	NA	2	6.766688900068402
+444	347	1	197	Filler	A crepe is like a very thin and delicate pancake.	Is a pancake similar to a crepe? 	Yes	1	2.4919289997778833
+444	348	1	75	Sem	You cannot buy Cuban cigars because there is a correction.	NA	NA	2	2.9691666001453996
+444	349	1	41	Sem	The Caribbean cruise package includes this kayaking, and snorkeling irritation.	NA	NA	2	5.447557900100946
+444	350	1	98	Filler	The meek student was too intimidated to ask a question.	NA	NA	2	11.905399599578232
+444	351	1	30	Control	The archeologists found the mummy of a young Egyptian pharaoh.	NA	NA	1	1.0586467999964952
+444	352	1	147	SemCrit	The contraction for "it is" needs to include an apocalypse.	NA	NA	2	3.662603999953717
+444	353	1	167	Filler	Supposedly, scrubbing your face with oatmeal is great for exfoliation.	NA	NA	2	1.1515235002152622
+444	354	1	113	Synt	The United States has a large stockpile of nuclear armament.	Do the weapons belong to the US? 	Yes	1	1.4545534001663327
+444	355	1	234	Filler	Deciding his poker hand was no good, the gambler folded.	NA	NA	1	7.193144399672747
+444	356	1	31	Control	The student went to medical school to become a physician.	NA	NA	1	0.5216680001467466
+444	357	1	185	Filler	The novel's twist ending was a surprise to many readers.	NA	NA	2	5.803320100065321
+444	358	1	1	Control	Someone who has fought in a war is a veteran.	Does the sentence mention a war? 	Yes	1	1.4429060998372734
+444	359	1	32	GoodExp	After a good night's sleep she felt invigorated and refreshed.	NA	NA	1	2.838604799937457
+444	360	1	246	Filler	When the parents went out together they hired a babysitter.	NA	NA	2	0.7604795997031033
+444	361	1	85	Synt	In the nineties, the Rugrats was a very popular cartoons.	NA	NA	2	5.111788500100374
+444	362	1	9	Control	The flooded river fertilized the fields with a rich sediment.	NA	NA	2	7.388696399983019
+444	363	1	274	Filler	The atomic bomb's explosion contaminated the area with dangerous radioactivity.	Was the contamination from a nuclear power plant? 	No	2	1.6279095998033881
+444	364	1	26	GoodExp	She needed to buy detergent so she could do laundry.	NA	NA	1	6.684935300145298
+444	365	1	71	Sem	For lunch, she had brought tomato soup in a lesion.	Did she bring her own lunch? 	Yes	1	1.238489800132811
+444	366	1	3	GoodExp	The dentist gave her some dental floss and a toothbrush.	NA	NA	2	7.883787199854851
+444	367	1	121	SemCrit	The celebrating couple joyfully popped open a bottle of campaign.	NA	NA	1	1.9223978002555668
+444	368	1	130	SemCrit	The congregation listens to a sermon delivered by a pasture.	NA	NA	1	13.029344199690968
+444	369	1	249	Filler	The poor girl gazed longingly at the king's opulent palace.	NA	NA	1	4.581251199822873
+444	370	1	172	Filler	The protests were swiftly followed by a harsh government crackdown.	NA	NA	2	7.160861499607563
+444	371	1	16	Filler	If you want concentrated broth, you should simmer it uncovered.	NA	NA	2	0.475403199903667
+444	372	1	159	Filler	The girl was heartbroken and distraught after her first breakup.	NA	NA	1	4.820041900034994
+444	373	1	154	SemCrit	She scolded the child for running backwards up an escalation.	NA	NA	2	0.5620085000991821
+444	374	1	51	Sem	The preacher believed drunkenness was the cause of much irrigation.	NA	NA	2	9.970953000243753
+444	375	1	38	Filler	He felt the meeting was pointless, but attendance was mandatory.	NA	NA	1	7.0048253000713885
+444	376	1	62	Filler	The language savant suffered brain damage in a car accident.	NA	NA	1	2.017458700109273
+444	377	1	151	SemCrit	To make the car accelerate, press down on this petal.	NA	NA	2	5.186720199882984
+444	378	1	79	Filler	The most formal attire for a man is a tuxedo.	NA	NA	2	1.7186610996723175
+444	379	1	127	SemCrit	The sudden change in protocol had caused all this constellation.	NA	NA	2	10.979931400157511
+444	380	1	136	SemCrit	I control my fate; I don't have a predetermined density.	NA	NA	2	1.24382540024817
+444	381	1	65	Filler	The most popular pastas are macaroni, vermicelli, lasagna, and spaghetti.	NA	NA	2	8.134109700098634
+444	382	1	277	Filler	The toxic pollution was killing wildlife and ruining the environment.	NA	NA	2	0.3050629999488592
+444	383	1	42	Filler	The death of the store owner was tragic and senseless.	NA	NA	2	0.9683294002898037
+444	384	1	9	Filler	The workers went on strike to demand better living conditions.	NA	NA	2	4.352623499929905
+444	385	1	111	Filler	The child painstakingly knotted the laces on her new sneakers.	NA	NA	2	1.1816298998892307
+444	386	1	5	Control	The storyteller could turn any incident into an amusing anecdote.	Does the sentence mention a storyteller? 	Yes	1	1.2239342001266778
+444	387	1	10	GoodExp	The psychologist believed his fits were a symptom of neurosis.	NA	NA	1	0.8388879001140594
+444	388	1	270	Filler	She liked the magazine so she bought a monthly subscription.	NA	NA	1	0.33353419974446297
+444	389	1	17	Control	After my root canal the dentist prescribed a pain medication.	NA	NA	2	0.6534998002462089
+444	390	1	133	SemCrit	That white dog with little black spots is a damnation.	Was the creature a canine? 	Yes	1	1.7591665997169912
+444	391	1	205	Filler	The verdant jungle was teeming with exotic flora and fauna.	NA	NA	2	0.3463636999949813
+444	392	1	73	Sem	The student had his editorial published in a local pleasantry.	NA	NA	2	9.025715900119394
+444	393	1	213	Filler	The foreigner found it difficult to overcome the language barrier.	Were the foreigner's difficulties due to visa issues? 	No	2	2.754890499636531
+444	394	1	124	SemCrit	The napalm turned the luscious forest into a fiery inference.	NA	NA	1	1.1581486999057233
+444	395	1	54	Sem	Despite technological advances, wars cannot be won without an embryo.	NA	NA	2	3.6287556998431683
+444	396	1	212	Filler	Grandmother baked some delicious cookies using her secret family recipe.	NA	NA	2	3.7331036999821663
+444	397	1	104	Filler	The spicy hot fermented cabbage in Korean food is kimchi.	NA	NA	2	0.5781028000637889
+444	398	1	29	Filler	The naughty little child had always been quite a troublemaker.	NA	NA	2	0.4206733996979892
+444	399	1	182	Filler	You should be careful to speak respectfully to your superiors.	NA	NA	2	6.7622921001166105
+444	400	1	258	Filler	Piercing and tattoo parlors should always keep their needles sterilized.	Should tattoo needles be regularly disinfected? 	Yes	1	1.6281647998839617
+444	401	1	55	Filler	Apple pie filling is usually spiced with nutmeg and cinnamon.	NA	NA	1	0.5138254002667964
+444	402	1	126	Filler	The mobster was caught and charged with blackmail and extortion.	Was the mobster captured? 	Yes	1	1.2127604996785522
+444	403	1	84	Filler	He bought his girlfriend perfume, and she bought him cologne.	NA	NA	2	0.41172719979658723
+444	404	1	118	Filler	The tropical greenhouse was filled with ferns, hibiscus, and orchids.	NA	NA	2	7.665387500077486
+444	405	1	232	Filler	She unfortunately could not attend because she had previous engagements.	NA	NA	2	0.4075935003347695
+444	406	1	13	Filler	After being arrested for substance abuse, he voluntarily underwent rehabilitation.	NA	NA	2	0.3495235997252166
+444	407	1	83	Filler	Promoting small businesses helps to create jobs and decrease unemployment.	NA	NA	2	8.015572499949485
+444	408	1	96	Filler	The doctor warned the medication could cause nausea and vomiting.	NA	NA	2	1.652082399930805
+444	409	1	62	Sem	She danced with an elegant masked gentleman at that mortar.	NA	NA	2	2.5520473001524806
+444	410	1	48	Filler	The security alarm went off when it detected the intruder.	NA	NA	2	10.861345200333744
+444	411	1	109	Synt	The princess arrived at the ball in a horse-drawn carriages.	NA	NA	2	0.5862328000366688
+444	412	1	255	Filler	Halloween is a time to dress up in a costume.	NA	NA	2	1.1002269997261465
+444	413	1	190	Filler	The major led a large company, consisting of five platoons.	NA	NA	2	11.360166099853814
+444	414	1	35	Filler	The convenience store robbery was caught on the security camera.	NA	NA	1	1.3593480996787548
+444	415	1	72	Sem	The soaring eagle circled and glided upwards on a physician.	NA	NA	2	5.288402100093663
+444	416	1	181	Filler	The crime of unintentionally killing another person is involuntary manslaughter.	NA	NA	2	5.260980600025505
+444	417	1	116	Filler	The algebra students learned how to solve a quadratic equation.	NA	NA	2	0.2832598998211324
+444	418	1	194	Filler	The room's decor was overwhelmed by the extravagant floral wallpaper.	Was the wallpaper subdued?  	No	2	1.5721538998186588
+444	419	1	42	Sem	He had sprinted and was still sweating from this cardinal.	NA	NA	1	6.655091600026935
+444	420	1	93	Filler	In his nightmare, he plummeted down a dark endless abyss.	NA	NA	2	0.5524073000997305
+444	421	1	76	Sem	Some controversial stem cell research requires a fertilized human migraine.	NA	NA	1	3.320695099886507
+444	422	1	207	Filler	When drinking, you should have a sober driver previously designated.	NA	NA	2	6.200383400078863
+444	423	1	264	Filler	A lab assistant fainted because the room was too stuffy.	NA	NA	2	0.4435813999734819
+444	424	1	77	Sem	"Can't you just be quiet?" she snapped revealing her frankincense.	NA	NA	2	2.218871899880469
+444	425	1	160	Filler	All the candidates campaigned intensely to secure their party's nomination.	NA	NA	2	8.389121900312603
+444	426	1	15	Control	Pikemen can be an effective defense against a charging cavalry.	NA	NA	2	1.1350558996200562
+444	427	1	218	Filler	After the housing market crashed, many homes were left vacant.	NA	NA	2	1.8596948999911547
+444	428	1	134	Filler	The manager saw no good way to resolve this dilemma.	NA	NA	2	4.083961599972099
+444	429	1	43	Sem	The study of sounds in language is known as leisure.	NA	NA	2	3.773274800274521
+444	430	1	36	GoodExp	The shy and awkward boy was shunned by his classmates.	NA	NA	2	0.3041344997473061
+444	431	1	105	Synt	On the mountaintop we felt dizzy because of this altitudes.	NA	NA	2	5.760828800033778
+444	432	1	171	Filler	The souls of the wicked were condemned to eternal torment.	NA	NA	2	1.0757037000730634
+444	433	1	122	Filler	Treatment was usually much more difficult and expensive than prevention.	NA	NA	1	0.729356599971652
+444	434	1	237	Filler	After the tornado, it took days to restore the electricity.	NA	NA	1	0.7302538999356329
+444	435	1	153	Filler	The unhappy immigrant vehemently argued with the unyielding border officials.	NA	NA	1	0.6539304000325501
+444	436	1	8	GoodExp	The mermaid is a mythological creature that is half fish.	NA	NA	1	2.5582861001603305
+444	437	1	211	Filler	The employee complained that her boss was a complete imbecile.	NA	NA	1	2.42651669960469
+444	438	1	77	Filler	Those pearls are not real, but just a cheap imitation.	Are the pearls expensive? 	No	1	1.1614473997615278
+444	439	1	219	Filler	The victims of the industrial accident angrily demanded adequate compensation.	NA	NA	2	1.2401499999687076
+444	440	1	139	SemCrit	The president of the college handed each graduate a diplomat.	NA	NA	2	0.6876773000694811
+444	441	1	81	Filler	The internet sometimes makes it difficult to guard your privacy.	NA	NA	1	0.4382822997868061
+444	442	1	183	Filler	Thousands of airplane passengers were stranded because of the blizzard.	NA	NA	2	0.4142893999814987
+444	443	1	195	Filler	This restaurant is popular, but I think it is overrated.	NA	NA	1	2.1275880998000503
+444	444	1	115	Filler	The filmmaker hoped to inform the public with the documentary.	NA	NA	2	0.9075360996648669
+444	445	1	193	Filler	During the holiday season, many stores offer complimentary gift wrapping.	NA	NA	2	4.5931433998048306
+444	446	1	227	Filler	A masked gunman opened fire and killed three innocent bystanders.	NA	NA	1	1.0867508999072015
+444	447	1	208	Filler	The couple drank coffee and exchanged lively and playful banter.	NA	NA	2	1.0724810999818146
+444	448	1	129	SemCrit	The herd of cows was out grazing in a pastor.	NA	NA	2	9.885002399794757
+444	449	1	188	Filler	He heated up a bowl of soup in the microwave.	NA	NA	2	0.4355006995610893
+444	450	1	89	Filler	His attempt to sound grand just came off as pompous.	NA	NA	1	1.9272043001838028
+444	451	1	133	Filler	Five milliliters and one teaspoon are, for practical purposes, equivalent.	Are ten milliliters and two teaspoons the same? 	Yes	1	2.7134659998118877
+444	452	1	69	Sem	The ring held small diamonds set around this blue medication.	NA	NA	2	4.8980816998519
+444	453	1	135	Filler	Core exercises like crunches and planks can strengthen the abdomen.	NA	NA	1	0.45964560005813837
+444	454	1	179	Filler	The film accentuated the awkward silence with a chirping cricket.	NA	NA	2	8.515635500196368
+444	455	1	189	Filler	The doctor carefully inspected the blood sample through a microscope.	NA	NA	2	0.8918714998289943
+444	456	1	114	Synt	The Christmas tree was decorated with many shining glass ornament.	NA	NA	2	6.227480399888009
+444	457	1	115	Synt	Blackmail is just one of many weapons in this arsenals.	NA	NA	2	0.7564457999542356
+444	458	1	73	Filler	For their date, the couple went to a nice restaurant.	NA	NA	1	0.8070550002157688
+444	459	1	28	Filler	He preferred reading biographies and historical accounts to reading novels.	NA	NA	2	3.0283373002894223
+444	460	1	265	Filler	Nobody understood the talk because the topic was too obscure.	NA	NA	1	1.4115788000635803
+444	461	1	5	GoodExp	The family switched their light bulbs from incandescent to fluorescent.	NA	NA	2	1.9259170000441372
+444	462	1	132	Filler	Many movies depict teen girls as completely obsessed with popularity.	NA	NA	2	0.42922089993953705
+444	463	1	55	Sem	"Oh, yes, very impressive," she drawled with a sarcastic pastor.	NA	NA	2	8.813514400273561
+444	464	1	24	GoodExp	Desperately, the skydiver pulled the cord for his backup parachute.	NA	NA	1	3.742072199936956
+444	465	1	262	Filler	The shopper tried on the new outfit and was pleased.	NA	NA	2	14.52997069992125
+444	466	1	12	GoodExp	She disliked public displays of affection, like kissing or hugging.	NA	NA	1	0.8265476999804378
+444	467	1	40	Control	The baseball player felt cheated and swore at an umpire.	NA	NA	1	0.4708421998657286
+444	468	1	200	Filler	Overwhelmed by the sudden onslaught, the soldiers called for reinforcements.	NA	NA	2	6.101753400173038
+444	469	1	120	Filler	The gambler had lost lots of money at this casino.	NA	NA	1	3.9468203000724316
+444	470	1	169	Filler	Most works take ninety-five years to enter the public domain.	NA	NA	2	4.27934700017795
+444	471	1	71	Filler	The rogue state refused to participate in any international negotiations.	NA	NA	2	0.2196524003520608
+444	472	1	196	Filler	The party was a complete failure, despite all the preparations.	Did the party go well? 	No	2	1.1348773003555834
+444	473	1	23	Control	The zoo had two giraffes, an elephant, and a rhino.	NA	NA	2	6.468609599862248
+444	474	1	61	Filler	The groom joyfully carried his young bride over the threshold.	NA	NA	2	0.32608829997479916
+444	475	1	12	Filler	The sunrise was accompanied by the crowing of the rooster.	NA	NA	2	1.677112600300461
+444	476	1	125	SemCrit	I blacked out and was confused when I regained conscience.	NA	NA	2	0.9780709999613464
+444	477	1	155	SemCrit	Intestinal problems may indicate a tapeworm, a type of parasol.	Can worms cause digestion problems? 	Yes	1	2.1286661000922322
+444	478	1	58	Filler	During boarding, the gate agent will call passengers on standby.	NA	NA	2	6.993249400053173
+444	479	1	25	Filler	The radio transmission we thought was secure has been intercepted.	NA	NA	2	0.42248430009931326
