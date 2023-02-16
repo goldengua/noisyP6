@@ -3,13 +3,7 @@ from psychopy.hardware import brainproducts
 from psychopy import visual, core, event, monitors, gui, data, clock, logging, prefs
 from string import ascii_letters, digits
 from psychopy.tools.filetools import fromFile, toFile
-logging.console.setLevel(logging.CRITICAL)
-# *TO DO*: add practice trials -- done
-# *TO DO*: add breaks -- 10 blocks --done
-# *TO DO*: 60/480 with comprehension questions --- done
-# *TO DO*: send triggers
-# *TO SOLVE*: unable to test with trigger box
-# *TO SOLVE*: unable to take input from keyboard
+logging.console.setLevel(logging.DEBUG) # change for real
 
 # Switch to the script folder
 script_path = os.path.dirname(sys.argv[0])
@@ -18,7 +12,7 @@ if len(script_path) != 0:
 
 # Set this variable to True to run the script in "Dummy Mode"
 ##debug without port -- dummy mode
-dummy_mode = False
+dummy_mode = True
 
 # Set this variable to True to run the task in full screen mode
 # It is easier to debug the script in non-fullscreen mode
@@ -39,7 +33,7 @@ if not os.path.exists(results_folder):
 # make a csv file to save data
 outputFileName = os.path.join(results_folder + '/s' + str(subjnum) + '_' + str(srand) + '.tsv')
 dataFile = open(outputFileName, 'w')  # a simple text file with 'comma-separated-values'
-dataFile.write('subj\torder\tlist\titem\tcondition\tsentence\tquestion\tcorrect_answer\tresponse\n')
+dataFile.write('subj\torder\tlist\titem\tcondition\tsentence\tquestion\tcorrect_answer\tresponse\ttime\n')
 
 # read in information about items and conditions into a dataframe
 #listNum = numpy.random.randint(1,8)
@@ -62,8 +56,8 @@ if not dummy_mode:
 # Open a window, be sure to specify monitor parameters
 #mon = monitors.Monitor('myMonitor', width=53.0, distance=70.0)
 win = visual.Window(fullscr=full_screen,
-                    #size=(800, 600),
-                    color='white',
+                    size=(800, 600),
+                    color=(0,0,0), 
                     checkTiming=True
                     #monitor=mon,
                     #winType='pyglet',
@@ -172,9 +166,7 @@ def show_word(win, text, dur, crit=False, dummy_mode=dummy_mode):
     """ Show one word of sentence at a time and send triggers """
     crit_pulse_started = False
     crit_pulse_ended = False
-    #print(crit)
     trigger_code = condition_to_trigger(crit)
-    #print(trigger_code)
     msg = visual.TextStim(win, text,
                          # color=genv.getForegroundColor(),
                           wrapWidth=scn_width/2,
@@ -254,9 +246,10 @@ def run_practice():
     # show question and collect response
         event.clearEvents()  # clear cached PsychoPy events
         button_pressed = show_msg(win, quest[i]+"\n\n1:YES\t\t\t2:NO")
-        #print(button_pressed)
+        print(button_pressed)
         resp = button_pressed[0]
         RT = button_pressed[1]
+        show_msg(win, 'Please press any button to continue')
     #print(item, resp)
     # clear the screen
         clear_screen(win)
@@ -276,7 +269,7 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
     item, cond, sent, quest, ans = trial_pars
 
     words = sent.split()
-
+    #print(words)
 
     # pre-trial fixation for 1000ms
     show_word(win, "+", dur=1.0)
@@ -307,16 +300,17 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
         # show question and collect response
         event.clearEvents()  # clear cached PsychoPy events
         button_pressed = show_msg(win, quest+"\n\n1:YES\t\t\t2:NO")
-       # print(button_pressed)
+        print(button_pressed)
     
         resp = button_pressed[0]
         RT = button_pressed[1]
     #print(item, resp)
         dataFile.write(str(subjnum) + '\t' + str(trial_index) + '\t' + str(listNum) + '\t' + str(item) + '\t' + cond + '\t' + sent + '\t' + quest + '\t' + ans + '\t' + str(resp) + '\t' + str(RT) + '\n')
+        show_msg(win, 'Please press any button to continue')
     else:
         event.clearEvents()  # clear cached PsychoPy events
         button_pressed = show_msg(win, 'Please press any button to continue')
-      #  print(button_pressed)
+        print(button_pressed)
         resp = button_pressed[0]
         RT = button_pressed[1]
     #print(item, resp)
@@ -325,7 +319,8 @@ def run_eeg_vis_trial(trial_pars,listNum,trial_index, question_index, total, con
     clear_screen(win)
     
     if (trial_index % 48 == 0) and (trial_index != 0):
-        break_msg = 'Take a break now!\n' + \
+        block_num = trial_index // 48
+        break_msg = f'You have completed {block_num} out of 10 sessions.\n Take a break now!\n' + \
     '\nPress any button to resume.\n'
         show_msg(win, break_msg)
         
@@ -343,7 +338,7 @@ def terminate_task():
 
 
 # Show the task instructions
-task_msg = 'Welcome to this brainwaves study!\n\nNow, press any button to start the task'
+task_msg = 'Welcome to this brainwaves study!\n\nNow, press any button to start the task.'
 # if dummy_mode:
 #     task_msg = task_msg + '\nNow, press ENTER to start the task'
 # else:
@@ -355,6 +350,7 @@ show_msg(win, task_msg)
 instructions = ['In this task, you will read sentences one word at a time.\n (press any button to continue)',
         'Please read the sentences carefully.',
         'Some sentences will be followed by comprehension questions.',
+        'The question always pertains to the immediate preceding sentence.',
         'Use the 1 button to answer YES and...\nthe 2 button to answer NO.',
         'You will start by doing a few practice trials.',
         'Please let the experimenter know if you have any questions.',
